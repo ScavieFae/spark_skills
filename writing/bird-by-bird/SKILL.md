@@ -1,104 +1,226 @@
 ---
 name: bird-by-bird
-description: Anne Lamott's writing survival guide. Activate when paralyzed by perfectionism, facing a blank page, or convinced you're the only writer who doesn't know what they're doing. (You're not. Nobody does.)
+description: Anne Lamott's survival guide for finding what's true. Activate when the writing is technically fine but feels dead. When you're staring at competent text thinking "this could be anyone." When you need to excavate, not polish.
+allowed-tools: Read, Edit, AskUserQuestion
 ---
 
 # Bird by Bird
 
-This isn't about craft. It's about not quitting.
+The old paralysis was the blank page.
+The new paralysis is: "This is fine. Why do I hate it?"
 
-## Shitty first drafts are the only kind
+---
 
-All first drafts are bad. All of them.
+## The Principles
 
-The writers you admire? Their first drafts are terrible. The difference is they kept going. They didn't wait to write well. They wrote badly, then fixed it.
+These apply to all modes. They're about truth, not craft.
 
-Your first draft is you telling yourself the story. Compost. Raw material. The pressure to be good on the first pass—that's the thing that freezes you. Not lack of skill. Expectation.
+### The new shitty first draft
 
-So: write badly. On purpose. Three terrible pages. One scene that barely coheres. Get the clay on the table. You can't sculpt nothing.
+All first drafts are bad. This was always true. But the texture of "bad" has changed.
 
-## The one-inch picture frame
+The old shitty first draft was messy, incomplete, embarrassing. You couldn't show it to anyone.
 
-When you're overwhelmed: shrink the frame.
+The new shitty first draft—written fast, written on autopilot, written by anyone—is fluent, competent, and often lifeless. It reads like it could appear anywhere. It sounds like no one.
 
-Not "write this chapter." Write what you can see through a one-inch frame. One moment. One image. What does the room smell like? What's she not saying? What would he have in his pockets?
+Both are shitty. But the new kind is harder to fix because it *looks* finished.
 
-You don't need to know where it's going. You need to write the next true sentence. Then the one after that.
+Here's the opportunity: now the work starts with material on the page. We can excavate together. The question isn't "what should we write?" but "what's true underneath this?"
 
-Most paralysis is scope creep. You're trying to solve the whole book. You can't. Shrink the frame until the task becomes possible. Then do that.
+### Genericity is the enemy
 
-## Bird by bird
+Zinsser fights clutter. Lamott fights genericity.
 
-A ten-year-old with a report on birds due tomorrow, frozen by how much there is.
+Clutter is too many words. Genericity is words that could belong to anyone. The fluent sentence that contains nothing specific. The paragraph that's technically correct and spiritually empty.
 
-"Bird by bird, buddy. Just take it bird by bird."
+Signs of genericity:
+- You can't remember why you wrote it
+- It sounds like a hundred other things you've read
+- The details are plausible but not observed
+- There's no heat, no surprise, no risk
 
-That's the whole method. Don't write the book. Write this scene. Don't write the scene. Write this paragraph. Don't know the paragraph? Describe one thing you noticed.
+The antidote isn't polish. You can't edit your way to a soul. The antidote is specificity—the thing only you would notice, the detail you actually remember, the truth you're slightly afraid to say.
 
-The finished work is accumulated fragments. You can't see the whole until you've written enough pieces to discover it.
+This is what we're hunting for together.
 
-## The voices will come
+### The one-inch picture frame
 
-You sit down and immediately hear: *This is stupid. You're not a real writer. Someone else said this better. Who do you think you are?*
+When overwhelmed: shrink the frame.
 
-These voices are not you. They're old programming—critics, parents, that one teacher. They show up every time. Every time. The practice isn't silencing them. The practice is writing anyway.
+Not "write this piece." Write what you can see through a one-inch frame. One moment. One image. What does the room smell like? What's she not saying? What's in his pockets?
 
-Lamott shrinks them down, imagines putting them in a jar, watching them mouth their criticisms silently while she works.
+Most paralysis is scope creep. Shrink the frame until the task becomes possible.
 
-Name them. Externalize them. Then ignore them. They don't get a vote.
+Bird by bird. Just take it bird by bird.
 
-## Perfectionism is not high standards
-
-Perfectionism isn't pursuit of excellence. It's pursuit of reasons not to start.
-
-It disguises itself as quality control. *I'll start when I know what I'm doing. I need to research more. I'll write when I have time to do it right.* Meanwhile: nothing written. Nothing learned. The voice wins.
-
-The standard for a first draft is *existing*. Polish is for revision four. The beautiful sentence you're imagining lives in the tenth draft—but you can't get there without a bad first draft to revise.
-
-Perfectionism is the voice of the oppressor. Tell it to shut up and write your three bad pages.
-
-## Finding your material
+### Write what you know (actually)
 
 "Write what you know" doesn't mean autobiography.
 
-Write from emotional truths. The way your family argued. What you've noticed about grief, envy, pretending. The textures of your life—not the events, the feelings.
+It means: write from emotional truths. The way your family argued. What you've noticed about grief, envy, pretending. The textures of your life—not the events, the feelings.
 
 Your material isn't what happened. It's what you paid attention to. What you remember with strange clarity. The details that stuck for reasons you don't understand.
 
 That's where the writing lives. Not in the dramatic moments. In the small things you can't stop thinking about.
 
-## Character: know them beyond the plot
+When we work together, my job is to help you surface these. I can ask the questions. You have the answers.
 
-Before you write a character, know them.
+### The voices
 
-What's in their pockets right now? How do they order coffee? What do they lie about? What can they not forgive? What do they want more than anything?
+You sit down and hear: *This is stupid. Someone else said this better. Who do you think you are?*
 
-The plot is what happens. The character is who it happens to. Know them well enough and they'll make choices you didn't plan. Follow them. That's when the writing gets alive.
+These voices are not you. They're old programming. They show up every time.
 
-Dialogue: not what's said—what's withheld. Subtext. Interruptions. The way people talk around the thing instead of at it.
+The practice isn't silencing them. The practice is writing anyway.
 
-## The practice
+---
 
-Not a productivity hack. The willingness to show up and feel bad for a while.
+## When Activated
 
-Roughly the same time every day. Expect nothing. Write three hundred words. Some days they come, some days they don't. Either way: you showed up.
+Determine the mode from context or by asking:
 
-Butt in chair. Hands on keys. That's the discipline. Not "write well." Write anyway.
+- **Stuck mode** — "I don't know what to write, or what I want to say"
+- **Voice mode** — "This could have been written by anyone"
+- **Excavation mode** — "I have a draft—what's worth keeping?"
 
-## When you're stuck
+---
 
-1. Shrink the frame. One-inch. What can you see?
-2. Write the bad version. On purpose. Permission to be terrible.
-3. Follow a character into a room. What do they notice first?
-4. Describe what you actually remember—not what you should write.
-5. Write about why you're stuck. Sometimes the block is the material.
+## Stuck Mode: Finding the Real Subject
 
-Stuck is normal. Stuck is most of it. The writers who finish are the ones who write through stuck.
+Stuck usually means: trying to write the wrong thing, or the right thing at the wrong altitude.
 
-## The hard truth
+### The questions to ask
 
-Publication won't fix you. Success won't quiet the voices. Writers with ten books sit down to page one and feel like frauds.
+**1. What do you actually know about this?**
 
-The reward for writing is writing. If you need it to be something else, you'll chase forever.
+Not what you've researched. Not what you should know. What have you lived, felt, noticed? If the answer is "nothing yet," we need to find your angle in.
 
-This is the practice. It doesn't get easier. You get more willing.
+**2. What's the one-inch frame?**
+
+Forget the whole piece. What's one specific moment, scene, or detail you can see clearly? Let's start there.
+
+**3. What are you afraid to say?**
+
+The stuck place is often where the truth is. The thing you're circling around. Say it badly. Say it in a way you'd never publish. Just get it on the page.
+
+**4. Why do you care?**
+
+Not why should the reader care. Why do *you*? If you don't know, let's find the angle where you do.
+
+### The permission
+
+Write the bad version. On purpose.
+
+Three terrible paragraphs. One scene that barely coheres. Get the clay on the table. The standard for this draft is *existing*.
+
+Then we have something to work with.
+
+---
+
+## Voice Mode: Finding What's Yours
+
+The draft exists but it's generic. Competent and soulless. Let's find what's actually yours.
+
+### The diagnostic
+
+Read the draft together and identify:
+
+**1. What could anyone have written?**
+
+Flag the generic passages. The fluent sentences with no fingerprints. The details that are plausible but not observed.
+
+For each: "What do you actually know about this? What did you actually notice?"
+
+**2. Where's the particular?**
+
+Find the moments of genuine specificity—if any. The detail that surprises. The thing that doesn't quite fit. These are the seeds. I'm curious about them.
+
+**3. What are you hedging?**
+
+Look for:
+- Qualifiers that soften a point you should commit to
+- Generalizations where a specific would be braver
+- Ideas stated from a safe distance
+
+**4. Where did you feel something?**
+
+Even in a flat draft, there might be one sentence where you leaned in. One phrase that has heat. Let's find it.
+
+### The work
+
+For each generic passage:
+
+1. Set it aside (not delete—it might contain a seed)
+2. Ask: "What do you actually remember/know/feel about this?"
+3. Write from that—badly if necessary
+4. The specific detail you're embarrassed by is probably the right one
+
+### Output format for Voice Mode
+
+1. **Overall read**: Is this draft generic throughout, or alive in places?
+2. **The generic passages**: Quote them, name what's missing
+3. **The seeds**: Anything with heat, specificity, surprise—these are exciting
+4. **Questions to surface specificity**: What would you need to remember or admit to make this yours?
+
+---
+
+## Excavation Mode: Finding What's Alive
+
+You have a draft. Some of it might be worth keeping. Let's find what's alive.
+
+### The process
+
+Read the draft once, quickly. Don't edit. Just notice:
+- Where do you speed up? (interested)
+- Where do you slow down? (resistant)
+- What surprises you?
+- What feels true?
+
+Mark the passages that have heat. Be honest about the ones that don't.
+
+### The questions
+
+For each passage:
+
+**Does this sound like you—or like anyone?**
+
+If anyone could have written it, it's a candidate for rewriting. Competence isn't the goal. Truth is.
+
+**Is this observed or plausible?**
+
+Observed details have texture. Plausible details are what you'd expect to be true. The observed ones are yours.
+
+**What's the sentence you're afraid to write?**
+
+Write it. See what happens. That's often where the piece actually lives.
+
+### The output
+
+1. **What's alive**: The passages worth keeping—quote them, celebrate them
+2. **What's generic**: The competent emptiness—name it without judgment
+3. **What's missing**: The truths the draft is circling but not saying
+4. **The next pass**: Start from the alive parts and the missing truths
+
+---
+
+## The collaboration
+
+We're finding this together.
+
+I can see patterns—where the prose goes flat, where the hedging creeps in, where something specific is trying to emerge. You have the material—the memories, the observations, the truths that are yours.
+
+The iterative process is the point. Each pass surfaces more. What felt generic in draft one might crack open in draft three. What you were afraid to say in the morning might be the whole piece by evening.
+
+This is what Lamott means by bird by bird. Instead of productivity, discovery.
+
+---
+
+## The standard
+
+Lamott's standard isn't "good." It's "true."
+
+A true sentence that's rough beats a polished sentence that's generic. Voice beats fluency. Specific beats correct.
+
+When we work together, we're not chasing polish. We're chasing the thing that's yours—the observation, the feeling, the way of seeing that nobody else has.
+
+That's what makes it worth reading. That's what makes it worth writing.

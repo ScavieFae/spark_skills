@@ -95,6 +95,129 @@ Place skills in the appropriate category folder:
 
 Create new categories as needed.
 
+---
+
+## Advanced Patterns
+
+A basic skill is a *sensibility injection*—principles Claude absorbs and applies diffusely. That's useful, but skills can do more.
+
+### Modes
+
+Some books apply differently depending on where you are in the work. Instead of one-size-fits-all, let the skill branch:
+
+```markdown
+## When Activated
+
+Determine the mode from context or by asking:
+
+- **Draft mode** — "I'm starting fresh or still finding what I think"
+- **Revise mode** — "I have a draft, help me see what's wrong"
+- **Polish mode** — "Final pass, make it sing"
+```
+
+Each mode then has its own workflow. Users can also invoke explicitly: `/skill-name --revise`
+
+### Scaffolding
+
+Before the work begins, ask questions that shape it. This is especially powerful for drafting or planning:
+
+```markdown
+## Draft Mode: The Scaffolding Questions
+
+Before writing, answer these:
+
+### 1. What's the one thing this piece is about?
+Not three things. One. If you can't say it in a sentence, you're not ready.
+
+### 2. Who are you to the reader?
+A guide? A friend? An expert reluctantly explaining?
+
+### 3. What surprised you?
+The piece lives in your genuine curiosity.
+```
+
+These answers become the compass. The skill holds them while the user works.
+
+### Diagnostics
+
+Instead of diffuse application, run an active diagnostic. Read the work and surface specific issues:
+
+```markdown
+## Revise Mode: The Diagnostic
+
+Read the draft with [Author]'s eye. Surface specific issues, ranked by impact.
+
+### 1. [Category of problem]
+
+Flag instances of:
+- Pattern A
+- Pattern B
+
+For each: show the passage, name the issue, suggest the fix.
+
+### 2. [Next category]
+...
+```
+
+This turns the skill into an active workflow, not just flavor.
+
+### Output Formats
+
+Prescribe how Claude should present its work. This makes the skill repeatable:
+
+```markdown
+### Output format for Revise Mode
+
+1. **Overall assessment** (2-3 sentences): What's working, what's the main issue
+2. **Ranked issues** (most impactful first): Specific passages with diagnosis
+3. **Suggested rewrites**: Show, don't just tell
+4. **One question for the writer**: Something to sit with before the next pass
+```
+
+### Tool Restrictions
+
+Use `allowed-tools` in the frontmatter to focus Claude on the right capabilities:
+
+```yaml
+---
+name: on-writing-well
+description: Zinsser's warm, exacting eye for nonfiction...
+allowed-tools: Read, Edit, AskUserQuestion
+---
+```
+
+A writing skill probably shouldn't run bash commands or spawn agents. Narrowing tools improves reliability.
+
+### Progressive Disclosure
+
+If a skill needs deep reference material, split it across files:
+
+```
+book-name/
+├── SKILL.md          # Core workflow, under 300 lines
+├── REFERENCE.md      # Detailed patterns, loaded on demand
+└── EXAMPLES.md       # Before/after pairs
+```
+
+Claude loads `SKILL.md` first. Reference files load only when needed, reducing context cost.
+
+---
+
+## Choosing Your Pattern
+
+| If the book is about... | Consider... |
+|-------------------------|-------------|
+| A craft with stages (drafting, editing, polishing) | Modes |
+| Preparing before action (planning, interviews, negotiations) | Scaffolding |
+| Evaluating existing work (code review, strategy audit, feedback) | Diagnostics |
+| Dense reference material (style guides, frameworks) | Progressive disclosure |
+
+Many skills combine patterns. *On Writing Well* uses all four: principles first, then modes for draft/revise/polish, scaffolding questions in draft mode, diagnostics in revise mode.
+
+Start simple. Add structure when the skill's use case demands it.
+
+---
+
 ## Licensing
 
 Spark skills are original distillations, not reproductions. Include only:

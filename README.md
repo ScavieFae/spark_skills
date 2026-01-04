@@ -38,25 +38,89 @@ Think of it as having a writing coach, strategy advisor, or management mentor on
 ### Communication
 - **[Made to Stick](communication/made-to-stick/)** — Heath brothers' craft of ideas that survive
 
-## Usage
+## Understanding Skills
 
-### Install a single skill
+If you're new to Claude Code skills, here's what you need to know.
 
-```bash
-claude skill install /path/to/spark_skills/writing/elements-of-style
+**Skills are instructions Claude loads when relevant.** Each skill is a markdown file (`SKILL.md`) that teaches Claude how to approach a specific kind of work. When you're drafting nonfiction and your writing feels stiff, Claude can load *On Writing Well* and apply Zinsser's principles. When you're evaluating a business strategy, it can load *Good Strategy Bad Strategy* and run Rumelt's diagnostic.
+
+**Skills aren't always-on.** Claude reads each skill's description and decides whether to load it based on what you're working on. This means you can have many skills installed without bloating every conversation—only relevant ones activate.
+
+**Skills can also be invoked directly.** Type `/on-writing-well` to explicitly load a skill, regardless of context. Some skills support modes or arguments: `/on-writing-well --revise` or `/mom-test "my interview transcript"`.
+
+**Skills use tokens.** When a skill loads, its contents count against your context window. These skills are kept lean (under 300 lines each), but if you install many skills with overlapping domains (say, all three writing skills), they might all load when you're writing. That's useful if you want multiple perspectives, noisy if you don't.
+
+---
+
+## Installation
+
+### Option 1: Add to your Claude Code settings
+
+Skills are registered by pointing to the folder containing `SKILL.md`.
+
+**For a single project** — add to `.claude/settings.json` in your project:
+
+```json
+{
+  "skills": [
+    "/path/to/spark_skills/writing/on-writing-well",
+    "/path/to/spark_skills/strategy/good-strategy-bad-strategy"
+  ]
+}
 ```
 
-Or add the skill folder path to your Claude Code settings.
+**For all your projects** — add to `~/.claude/settings.json`:
 
-### Using skills
+```json
+{
+  "skills": [
+    "/path/to/spark_skills/writing/on-writing-well"
+  ]
+}
+```
 
-Once installed, skills activate based on their description triggers. For Elements of Style, ask Claude to edit prose, tighten writing, or review for clarity—the skill loads automatically.
+Replace `/path/to/spark_skills` with wherever you cloned this repo.
+
+### Option 2: Use the CLI
+
+```bash
+claude skill add /path/to/spark_skills/writing/elements-of-style
+```
+
+This adds the skill to your user-level settings.
+
+### How many should I install?
+
+Start with one or two that match your current work. If you're doing a lot of writing, install a writing skill. If you're in strategy mode, install a strategy skill.
+
+You *can* install all of them globally, but:
+- Skills with overlapping domains may all load at once
+- More skills = more potential context usage
+- Some skills are better invoked explicitly than auto-loaded
+
+A reasonable approach: install your most-used skills globally, keep specialized ones at the project level, and invoke others directly when needed.
+
+---
+
+## Usage
+
+Once installed, skills activate automatically when the context matches their description. For *Elements of Style*, ask Claude to edit prose, tighten writing, or review for clarity—the skill loads without you asking.
 
 You can also invoke directly:
 
 ```
 /elements-of-style Review this paragraph for wordiness
 ```
+
+Some skills have modes. *On Writing Well* supports three:
+
+```
+/on-writing-well --draft    # Scaffolding questions before you write
+/on-writing-well --revise   # Diagnostic on an existing draft
+/on-writing-well --polish   # Final pass, light touch
+```
+
+If you don't specify, the skill will determine the mode from context or ask.
 
 ## Philosophy
 

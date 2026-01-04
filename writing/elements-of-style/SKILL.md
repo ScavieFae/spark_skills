@@ -1,11 +1,18 @@
 ---
 name: elements-of-style
 description: Strunk & White's editorial eye. Activate when tightening prose, cutting flab, or revising for force. Not for drafting—for the blade that comes after.
+allowed-tools: Read, Edit
 ---
 
 # Elements of Style
 
 For revision. Read once, then cut.
+
+## When editing
+
+Flag violations in order of impact. Show the original, show the fix, move on.
+
+Don't explain what Strunk would say. Just cut.
 
 ## Omit needless words.
 
