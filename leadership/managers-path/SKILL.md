@@ -1,47 +1,51 @@
 ---
 name: managers-path
-description: Fournier's guide to surviving the engineering ladder. Activate when stepping into a new role, stuck in a transition, or drowning in responsibilities that weren't yours last month. The job changes completely at each level. Most people don't realize this until they're failing.
+description: Fournier's guide for engineers who suddenly have to manage people. Activate when an engineer gets promoted and starts drowning, when you miss shipping code, or when you're tempted to just fix it yourself because it would be faster. You were good at your old job. This is a different job.
 allowed-tools: Read, Edit, AskUserQuestion
 ---
 
 # The Manager's Path
 
-The discomfort you feel after a promotion isn't impostor syndrome.
-It's the correct recognition that you don't know how to do this job yet.
+You were an engineer. You were good at it. You could look at a problem, break it down, solve it, ship it, feel the satisfaction of something working that didn't work before.
+
+Now you're a manager. And almost none of that applies.
 
 ---
 
 ## When to Use This
 
-**You just got promoted:**
-- "I used to be good at my job. Now I'm not sure what my job is."
-- Everything takes longer. You're doing your old work plus new work you don't understand yet.
-- You miss the dopamine of shipping.
+**You're an engineer who just got promoted:**
+- You miss shipping. The dopamine is gone.
+- You know you could fix that bug faster than explaining it.
+- Your calendar is full of meetings and you're not sure what you actually *do* anymore.
+- You feel dumber than you did six months ago.
 
-**You're stuck in transition:**
-- The skills that got you here aren't working anymore.
-- You're the bottleneck but can't figure out what to stop doing.
-- Your calendar is full but nothing important is happening.
+**You're watching an engineer struggle in a new role:**
+- They're still writing all the critical code themselves.
+- They're drowning but won't delegate.
+- Their 1:1s are status updates, not conversations.
+- They look miserable in a job they wanted.
 
-**You're diagnosing what's broken:**
-- A team or manager is struggling and you can't pinpoint why.
-- You're sensing dysfunction but can't name it.
-- Someone's failing in a role they should be good at.
+**You're considering the jump yourself:**
+- You want to advance but don't know if you want *this*.
+- People keep asking if you've thought about management.
+- You're not sure what the job actually is.
 
-**You're coaching someone through transition:**
-- A report just got promoted and is flailing.
-- An IC is considering management but doesn't understand what they're signing up for.
-- A manager is doing their old job instead of their new one.
+**The uncomfortable truth:** Management isn't a promotion. It's a career change. You're not becoming a better engineer. You're becoming a beginner at something else.
 
 ---
 
 ## The Core Problem
 
-You got promoted because you were good at something. Now that thing isn't your job anymore.
+Engineers solve problems. You see something broken, you fix it. The feedback loop is tight: code works or it doesn't. Ship and feel good.
 
-ICs succeed by solving problems. Tech leads succeed by guiding solutions. Managers succeed by growing the people who solve problems. Directors succeed by designing organizations that grow managers.
+Management breaks all of that.
 
-Each transition means doing less of what you're good at. The discomfort isn't a bug—it's the job. If it feels natural, you're probably not doing it.
+You can't fix people like you fix code. You can't debug motivation. You can't refactor someone's confidence. And the worst part: you *could* still write that code faster than teaching someone else to do it. The temptation never fully goes away.
+
+Fournier's insight: each level up the ladder is a completely different job. The skills that made you excellent at the last level are almost useless at this one. You're not building on your strengths—you're starting over.
+
+The discomfort you feel isn't impostor syndrome. It's the accurate recognition that you don't know how to do this job yet.
 
 ---
 
@@ -49,240 +53,188 @@ Each transition means doing less of what you're good at. The discomfort isn't a 
 
 Determine the mode from context or by asking:
 
-- **Diagnose mode** — "I'm struggling in my role, or watching someone else struggle"
-- **Transition mode** — "I'm moving into a new level and need to understand the shift"
-- **Coach mode** — "I'm helping someone else navigate their transition"
+- **Transition mode** — "I'm stepping into a new level and drowning"
+- **Diagnose mode** — "Something's wrong and I can't name it"
+- **Decide mode** — "I'm not sure if I want this"
 
 ---
 
-## Diagnose Mode: What Level Is Actually Broken?
+## Transition Mode: The Job Just Changed Completely
 
-Something isn't working. Let's figure out where.
+You got promoted. Congratulations. Now forget everything that worked before.
 
-### First: What level are we talking about?
+### Engineer → Tech Lead
 
-| Level | Your job is to... | You fail when... |
-|-------|------------------|------------------|
-| Tech Lead | Guide technical direction without authority | You do all the hard work yourself |
-| Manager | Grow the people who solve problems | You solve the problems yourself |
-| Manager of Managers | Grow your managers' leadership capacity | You manage their reports for them |
-| Director+ | Design organizations and systems | You manage individuals instead of systems |
+**What you think the job is:** Senior engineer with more responsibility.
 
-### The diagnostic questions
+**What the job actually is:** You're still coding, but now you're responsible for technical decisions you don't personally make. You lead through influence with people who don't report to you. Your value isn't the code you write—it's the bad code you prevent.
 
-**What are you spending time on?**
+**The engineer's trap:**
+You see a hard problem. You know you can solve it faster than anyone. So you do. Then you do it again. Now you're the bottleneck, and everyone else has stopped growing because you're always in the way.
 
-Track a week honestly. Where does the time actually go? Now compare:
+**The questions that reveal if you're stuck:**
+- If you got sick for two weeks, would any project actually continue?
+- When's the last time someone made a technical decision you disagreed with—and you let it stand?
+- Are you the only one who can debug production? Is that a problem or a point of pride?
 
-- Tech Lead should be: 50%+ coding, architecture decisions, unblocking, cross-team alignment
-- Manager should be: 1:1s, feedback, hiring, shielding team from chaos
-- Manager of Managers should be: growing managers, skip-levels, org design, strategy
-- Director+ should be: organizational problems, executive alignment, long-term planning
+**What has to change:**
+From "I'll do this because I'm best at it" to "How do I make someone else good enough to do this?"
 
-If you're spending time one level down, you're doing your old job. Comfortable but wrong.
+You have to let them struggle. It's slower. It feels wasteful. That's the job now.
 
-**What's the failure pattern?**
+### Tech Lead → Manager
 
-| You're probably at... | If you're failing by... |
-|-----------------------|------------------------|
-| Tech Lead | Being in every code review, every design, every outage |
-| Manager | Storing up feedback for quarterly reviews; status-update 1:1s |
-| Manager of Managers | Not knowing what your ICs are struggling with |
-| Director+ | Making technical decisions you don't understand; mandating without context |
+**What you think the job is:** Tech lead with hiring and 1:1s added.
 
-**What are you avoiding?**
+**What the job actually is:** You don't solve technical problems anymore. You solve *people* problems so that *people* can solve technical problems. Your output is their output. Your wins come through others.
 
-The thing you're avoiding is usually your actual job:
+**The engineer's trap:**
+You're still the smartest technical person in the room, and you can't resist proving it. Your 1:1s are status updates. You store feedback for quarterly reviews instead of saying it now. You take over when things get hard because watching someone struggle feels inefficient.
 
-- Tech Lead avoiding: letting go of the hardest technical problems
-- Manager avoiding: the difficult feedback conversation
-- Manager of Managers avoiding: telling a manager they're not ready
-- Director+ avoiding: the org change that would fix the problem
+**The questions that reveal if you're stuck:**
+- Can you name each report's biggest frustration *right now*? Not their project status—their frustration.
+- When's the last time you gave critical feedback within 48 hours of the behavior?
+- In your 1:1s, who talks more?
+- When's the last time you jumped in to solve a technical problem and immediately regretted it?
 
-Name it. That's probably where the work is.
+**The 1:1 test:**
+If your 1:1s are status updates, you're using the wrong meeting. Status is async. 1:1s are for the things they won't say in Slack.
 
----
-
-## Transition Mode: The Level-Specific Shift
-
-You're moving into a new level. Let's get specific about what changes.
-
-### Tech Lead: Still an IC, Now Responsible for More
-
-**What changes:**
-- You're still coding. But now you're also responsible for your team's technical direction.
-- You lead through influence, not authority.
-- Your value shifts from the code you write to the code you prevent others from writing badly.
-
-**The trap:**
-Doing all the hard work yourself because it's faster. It is faster. You've become the bottleneck dressed up as the team's best engineer.
-
-**The questions to ask yourself:**
-1. Could any project continue if you got sick for two weeks?
-2. Are you the single point of failure for any system or decision?
-3. Is anyone else growing into harder technical work, or is that still you?
-4. When was the last time someone else made a technical decision you disagreed with—and you let it stand?
-
-**The shift:**
-From "I'll do this because I'm best at it" to "How do I make others better at this?"
-
-### Manager: People Are Now the Job
-
-**What changes:**
-- Your output is their output. Their growth is your responsibility.
-- Technical problems become second-order. You solve people problems so people can solve technical problems.
-- The dopamine hit of shipping is gone. Your wins come through others.
-
-**The trap:**
-Treating 1:1s as status updates. Storing feedback for quarterly reviews. Still trying to be the smartest technical person in the room.
-
-**The questions to ask yourself:**
-1. What's the last piece of critical feedback you gave within 48 hours of the behavior?
-2. Can you name each report's biggest frustration right now?
-3. Are your 1:1s driven by their agenda or yours?
-4. When was the last time you resisted jumping in to solve a technical problem yourself?
-
-**The 1:1 diagnostic:**
-- Status updates in 1:1s = you're using the wrong meeting
-- You're talking more than they are = you're doing it wrong
-- You can't remember anything surprising from last month's 1:1s = they're not telling you what's real
-
-**The shift:**
+**What has to change:**
 From "How do I solve this?" to "How do I help them solve this, and grow from solving it?"
 
-### Manager of Managers: Information Is Two Hops Away
+The dopamine hit of shipping is gone. Forever. Some people never adjust. That's okay—but know it going in.
 
-**What changes:**
-- You don't know what ICs are doing day-to-day. You're running on delayed and filtered information.
-- Your job is to grow your managers. Their leadership capacity is your team's capacity.
-- Skip-levels become essential—not to manage around your managers, but to learn what's actually happening.
+### Manager → Manager of Managers
 
-**The trap:**
-Doing your managers' jobs for them. Going direct to ICs when things get hard. Optimizing for speed over manager growth.
+**What you think the job is:** Manager with more scope.
 
-**The questions to ask yourself:**
-1. When was your last skip-level? What did you learn that surprised you?
-2. Which of your managers needs coaching on giving feedback? On running 1:1s? On prioritizing?
-3. Are you solving problems your managers should be solving?
-4. Do your managers come to you with solutions or with problems?
+**What the job actually is:** Information is now two hops away. You don't know what ICs are doing day-to-day. You're operating on delayed, filtered data. Your job is to grow your managers—their leadership capacity is your team's capacity.
 
-**The shift:**
-From managing ICs to growing managers who manage ICs.
+**The engineer's trap:**
+When things go wrong, you go direct to the ICs and fix it yourself. Faster! More accurate! You just undercut your manager and taught everyone that you're the real boss.
 
-### Director and Above: Organizational Problems
+**The questions that reveal if you're stuck:**
+- When was your last skip-level? What surprised you?
+- Which of your managers needs help with feedback? With prioritization? With 1:1s?
+- Do your managers bring you problems or solutions?
+- Are you solving problems your managers should be solving?
 
-**What changes:**
-- Your job is organizational design. Teams, structures, communication channels, incentive systems.
-- The problems are systemic. Individual performance matters less than whether the system produces good outcomes.
-- You'll write less code every year until you stop entirely.
+**What has to change:**
+From managing ICs to growing managers who manage ICs. You're now one more step removed from the work. Get used to it.
 
-**The trap:**
-Managing individuals instead of systems. Mandating technical decisions you don't understand. Losing touch with the technology until you can't smell bullshit.
+### Director and Beyond
 
-**The questions to ask yourself:**
-1. What organizational structure would make this problem go away?
-2. Are people responding rationally to broken incentives?
-3. When's the last time you read a design doc or did a code review?
-4. Can you still tell when an estimate is bullshit?
+**What you think the job is:** Bigger scope, more influence.
 
-**Debugging a team:**
-- Unclear goals: People working hard on things that don't matter
-- Mistrust: Information hoarding, credit hoarding, CYA behavior
-- Wrong people: Skill gaps, seniority gaps, bad fits
-- Process theater: Lots of meetings, lots of artifacts, no output
-- Missing communication: Assumptions instead of alignment
+**What the job actually is:** Organizational design. You're not managing individuals anymore—you're designing systems that produce outcomes. Teams, structures, incentives, communication channels.
 
-Don't blame people first. Check if they're responding rationally to broken systems.
+**The engineer's trap:**
+You mandate technical decisions you don't fully understand. Or worse: you lose touch with the technology entirely and can't smell bullshit anymore.
+
+**The questions that reveal if you're stuck:**
+- When's the last time you read a design doc? Did a code review?
+- Can you still tell when an estimate is wrong?
+- Are you solving individual performance problems when the real issue is organizational?
+
+**Fournier's warning:** You'll write less code every year until you stop entirely. Some directors maintain technical credibility. Most don't. Decide which you're going to be and commit.
 
 ---
 
-## Coach Mode: Helping Someone Else Through
+## Diagnose Mode: What's Actually Wrong
 
-Someone you work with is struggling in a transition. Let's help.
+Someone's struggling. Let's figure out where.
 
-### The core question to ask them
+### The core diagnostic
 
-"What was your job before? What is your job now? What's the difference?"
+Ask them: "What was your job before? What is it now? What's the difference?"
 
-Most struggling people can't answer this clearly. Helping them articulate the shift is half the work.
+If they can't answer clearly, that's the problem. They're trying to do their old job plus some new stuff, and it's crushing them.
 
-### The usual failure modes to look for
+### The three failure patterns
 
-**They're doing their old job:**
-- The tech lead who's still writing all the critical code
-- The manager who's still solving the hardest technical problems
-- The manager of managers who's managing ICs directly
+**1. They're still doing their old job**
 
-Ask: "What have you stopped doing since the promotion?" If they can't name anything, that's the problem.
+The tech lead who's in every code review. The manager who still solves the hardest technical problems. The director who's managing ICs directly.
 
-**They're adding the new job without dropping the old:**
-- Working 70 hours and drowning
-- In every meeting, every review, every decision
-- Feeling indispensable (which means they've created a bottleneck)
+Ask: "What have you stopped doing since the promotion?" If they can't name anything, that's the answer.
+
+**2. They added the new job without dropping the old**
+
+Working 70 hours. In every meeting. Feeling indispensable (which means they've built themselves into a single point of failure).
 
 Ask: "What would break if you disappeared for two weeks?" If the answer is "everything," they're not delegating.
 
-**They're avoiding the hard parts:**
-- The manager who hasn't had a difficult feedback conversation in months
-- The director who keeps solving technical problems instead of org problems
-- The manager of managers who never does skip-levels
+**3. They're avoiding the hard parts**
 
-Ask: "What's the conversation you're avoiding?" Name it. Schedule it.
+The manager who hasn't had a difficult feedback conversation in months. The director who keeps solving technical problems because org problems are uncomfortable. The manager of managers who never does skip-levels.
 
-### The meta-skill to teach
+Ask: "What conversation are you avoiding?" Name it. Schedule it.
+
+### The meta-problem
 
 Each level requires a new identity. They're not getting better at their old job—they're learning a new one. It feels like starting over because it is.
 
-The question isn't "how do I get better?" The question is "what does the organization actually need from this role?"
-
 ---
 
-## The Management Decision
+## Decide Mode: Should You Even Do This?
 
-Not everyone should manage. Before someone transitions:
+Management isn't for everyone. That's not a consolation prize—it's a fact.
 
-**The real question:**
-Not "do I want to advance?" but "do I want this specific job?"
+### The real question
 
-Managing means: wins through others, constant context-switching, emotional labor, second-order technical problems. Some excellent engineers become mediocre managers because they miss shipping.
+Not "do I want to advance?" but "do I want *this specific job*?"
 
-Staff+ tracks are real now. The question is: which work do you actually want?
+Managing means:
+- Wins through others, not through your own hands
+- Constant context-switching, not deep focus
+- Emotional labor as a core requirement
+- Second-order technical problems (you help people who solve the problems)
 
-**The warning sign:**
-People can tell when their manager wishes they were coding. If someone takes management reluctantly, they'll do it reluctantly.
+Some excellent engineers become mediocre managers because they miss shipping. That's not failure—it's fit.
+
+### The staff+ alternative
+
+Staff and principal engineer tracks are real now. You can advance without managing people. The question isn't "up or out"—it's "which kind of work do you actually want?"
+
+### The warning Fournier gives
+
+People can tell when their manager wishes they were coding. If someone takes management reluctantly, they'll do it reluctantly. Their reports will feel it.
+
+Don't do this because it's the "next step." Do it because you actually want to grow people.
 
 ---
 
 ## Quick Reference
 
-### Level-by-level failure modes
+### The engineer's traps by level
 
-| Level | The trap | The tell |
-|-------|----------|----------|
-| Tech Lead | Doing all the hard work yourself | You're in every code review and design |
-| Manager | Status-update 1:1s, late feedback | Can't name each report's current frustration |
-| Manager of Managers | Managing ICs directly, skipping your managers | Last skip-level was months ago |
-| Director+ | Mandating without context, losing technical touch | Can't smell a bad estimate anymore |
+| Level | The trap | How it feels |
+|-------|----------|--------------|
+| Tech Lead | Doing all the hard work yourself | Productive but exhausting |
+| Manager | Solving technical problems instead of people problems | Competent but not managing |
+| Manager of Managers | Going direct to ICs when things break | Heroic but undermining |
+| Director+ | Losing technical credibility, or micromanaging | Lost or controlling |
 
-### The transition questions
+### Questions for any transition
 
-At any level, ask:
 1. What was your job? What is it now?
 2. What have you stopped doing?
 3. What are you avoiding?
 4. What would break if you disappeared?
 
-### Good 1:1 questions
+### The Fournier test
 
-- What's frustrating you?
-- What do you wish you were doing more of?
-- What's something I should know that I probably don't?
-- Where do you want to be in a year?
+Is the organization getting what it needs from someone at this level?
 
-### The standard
+Not what you're good at. Not what you enjoy. Not what worked before. What does this role actually require—and are you doing it?
 
-Fournier's standard: Is the organization getting what it needs from you at this level?
+---
 
-Not what you're good at. Not what you enjoy. Not what worked before. What does this role require, and are you doing it?
+## The Voice
 
-Answer that honestly, and the rest follows.
+Fournier writes like an engineer who figured this out the hard way. Direct, practical, occasionally rueful. She knows the temptation to just fix the code yourself—she's felt it. She knows the grief of giving up technical mastery—she's mourned it.
+
+The book isn't aspirational. It's survival guidance for engineers who suddenly have to care about feelings, politics, and organizational design—things they spent their whole career avoiding.
+
+If you're reading this skill, you're probably in that transition. The discomfort is correct. You're learning a new job. Give yourself the time you'd give any beginner.
