@@ -1,182 +1,269 @@
 ---
 name: high-output-management
-description: Andy Grove's operating system for managers who build things. Activate when running 1:1s, designing your week, making decisions under uncertainty, or wondering why your team isn't shipping faster.
+description: Grove's operating system for managers who build things. Activate when your calendar feels full but your team's output feels stuck. When you're busy but not sure you're useful. When a 1:1, meeting, or decision needs design—not just execution.
+allowed-tools: Read, Edit, AskUserQuestion
 ---
 
 # High Output Management
 
-Grove ran Intel for 25 years—through hypergrowth, near-bankruptcy, and the pivot from memory to microprocessors. This is operational. Not theory.
+Your output = your team's output + the output of teams you influence.
 
-## The equation
+That's it. That's the whole game. You don't ship code. You don't close deals. You create conditions where others do. Stop tracking what you did. Start tracking what you enabled.
 
-**Your output = output of your org + output of neighboring orgs under your influence.**
+Grove ran Intel through hypergrowth, near-death, and the pivot from memory to microprocessors. He applied manufacturing thinking to management. The factory floor has metrics, limiting steps, inspection points. Your calendar should too.
 
-You don't ship code. You don't close deals. You create the conditions where your team does. Stop tracking what you did. Start tracking what you enabled.
+---
 
-The manager who "just helps out" by doing IC work is failing. The one who sits in meetings all day is also failing. The good ones find the interventions that multiply output.
+## The Uncomfortable Truth
 
-## Leverage
+Most managerial activity is low-leverage busywork that feels productive.
 
-Some managerial activities produce ten times their input. Most don't. The difference is leverage.
+You attend meetings where you have no decision rights. You review work without reading it. You "stay in the loop" on things that don't need you. You do IC work because you're faster—never mind that you're not scalable.
 
-**Highest leverage:**
-- Training. You invest hours; it compounds forever. Grove taught Intel's management courses himself—he understood this.
-- Catching problems early. A bug found in design costs 10x less than one found in production. A misalignment caught Monday costs 10x less than one caught after two weeks of work.
-- Decisions that unblock many people. Your job includes *deciding*—not just facilitating.
-- 1:1s where you change how someone sees the problem.
+Grove would audit your week like a failing production line. Where's the bottleneck? Where's the waste? What are you doing that only you can do?
 
-**Negative leverage:**
-- Doing the work yourself. Even if you're faster, you're not scalable.
-- Attending meetings where you have no decision rights.
-- Meddling—inserting yourself into problems your team should own.
-- "Reviewing" work without actually reading it.
+The modern version is worse. Remote work multiplied meetings. Async tools mean you're cc'd on everything. "Staying aligned" became a full-time job. Most of it is meddling with extra steps.
 
-**The calendar test:** Block 4+ hours weekly for 1:1s and training. Protect them absolutely. They'll never feel urgent, which is why most managers underinvest.
+---
 
-## See the factory
+## When to Use This
 
-Every output—shipped features, hired engineers, decisions—comes from a process. Most managers can't see their processes, so they can't improve them.
+**Your week feels wrong:**
+- Calendar's full but the team isn't shipping faster
+- You're in meetings all day but decisions aren't getting made
+- You're exhausted but can't point to what you produced
 
-The breakfast factory: you run a diner. Eggs, toast, coffee—delivered hot, simultaneously. How?
+**You're designing a specific activity:**
+- Preparing for a 1:1 that needs to be more than status
+- Running a meeting that must end with a decision
+- Setting OKRs that will actually drive behavior
+- Structuring feedback that will land
 
-Start with the *limiting step*—the thing that takes longest (eggs). Work backward. Add inspection points where catching problems is cheap.
+**Something's broken:**
+- The team's output dropped and you don't know why
+- Someone's struggling and you're not sure how to help
+- A project's stuck and nobody's unblocking it
+- Information isn't flowing and problems surface late
 
-Apply this lens to your org:
-- **Limiting step for shipping a feature?** Usually: getting to clarity on what to build. Optimize there first.
-- **Where do you inspect?** If the answer is "production," you're paying 10x for bugs you could've caught in code review.
-- **What's your inventory?** Work in progress that's consuming resources but not delivering value. Every open PR is inventory. Every half-specified project is inventory.
+---
 
-The goal isn't to run your team like a factory. It's to *see clearly*—then improve.
+## When Activated
 
-## 1:1s
+Determine the mode from context or ask:
 
-Your highest-leverage meeting. Not optional. Not "when there's something to discuss." Weekly or biweekly, 30+ minutes, protected.
+- **Audit mode** — "Let's examine where my time/attention is going"
+- **Design mode** — "Help me structure this activity for output"
+- **Diagnose mode** — "Something's not working. Find the leverage point"
 
-This is your early warning system. By the time a problem surfaces in a staff meeting, it's already expensive. 1:1s catch things when they're small.
+---
+
+## Audit Mode: The Production Line of Your Week
+
+Your calendar is a production process. Let's audit it.
+
+### The questions
+
+**1. What's your output?**
+
+Not what you did. What the team produced. What decisions got made. What got unblocked. If you can only list your own activities, you're measuring the wrong thing.
+
+**2. How much time is in 1:1s?**
+
+Under 4 hours weekly is underinvestment. This is your early warning system, your training venue, your highest-leverage meeting. Protect it.
+
+**3. How many meetings do you attend without decision rights?**
+
+Each one is leverage lost. "Staying informed" usually means reading the notes would've worked. If you're not deciding or materially influencing, why are you there?
+
+**4. When do you think?**
+
+If never, you're a router. Information passes through you without processing. Block the time or it won't exist.
+
+**5. What did you do this week that only you could do?**
+
+Decisions that needed your authority. Relationships only you hold. Context only you have. Everything else is a delegation opportunity.
+
+### The leverage audit
+
+For each major time investment, ask:
+
+| Activity | Output multiplier? | Could be delegated? | Could be killed? |
+|----------|-------------------|---------------------|------------------|
+| Meeting X | ? | ? | ? |
+| Project Y | ? | ? | ? |
+
+**High leverage:** Training, 1:1s where you shift someone's thinking, decisions that unblock many people, catching problems early.
+
+**Negative leverage:** Doing the work yourself, meetings without decision rights, meddling in problems your team should own, reviewing without reading.
+
+---
+
+## Design Mode: Architecting for Output
+
+You have a specific activity. Let's design it to produce.
+
+### For 1:1s
+
+Grove: the highest-leverage meeting. Not optional. Not "when there's something to discuss."
 
 **Structure:**
 
-*Their meeting, not yours.* They set the agenda. If they consistently have nothing, either you're not asking the right questions or they don't trust you. Both are your problem to fix.
+*Their meeting, not yours.* They set the agenda. If they consistently have nothing, you're not asking the right questions or they don't trust you. Both are your problem.
 
-*Listen for what's unsaid.* "Everything's fine" is a flag. "Fine" is the word people use when they don't want to explain.
-
-*Ask:*
+*Key questions:*
 - What's blocking you?
 - What do you need from me that you're not getting?
 - Where did we waste time last week?
 - What should I know that I probably don't?
 
-*Don't let it become a status update.* Status is for standups or async. This time is for the stuff that needs a human.
+*Listen for "fine."* That's what people say when they don't want to explain. Probe.
 
-*Take notes. Follow up.* If you forget what they said, they'll stop telling you things.
+*Don't let it become status.* Status is for standups or async. This time is for what needs a human.
 
-## Task-relevant maturity
+*Take notes. Follow up.* Forget what they said and they'll stop telling you things.
 
-How you manage someone depends on their experience with the *specific task*—not their title, not their tenure.
+### For decision meetings
 
-**Low TRM:** New to this task. Tell them what to do and how. Check frequently. They need structure, not autonomy.
-
-**Medium TRM:** Some experience. Discuss goals, let them own approach. Available but not hovering.
-
-**High TRM:** They've done this before. Set objectives, disappear. You're a resource when needed.
-
-This is why good managers seem inconsistent—they're calibrating to the person and task, not applying a fixed style.
-
-**Say it out loud:** "You're new to this system, so I'm going to check in more often than usual. Not a comment on your ability—I'd do this with anyone. Once you're up to speed, I'll back off."
-
-Naming it removes the weirdness.
-
-## OKRs
-
-Grove invented these at Intel. They're simple until you try to use them well.
-
-**Objective:** What you want to achieve. Qualitative, ambitious, time-bound.
-
-**Key Results:** How you'll measure whether you achieved it. Quantitative, specific, verifiable.
-
-*Example:*
-- Objective: Make our API fast enough that latency is never a sales objection.
-- KR1: P95 latency < 100ms by end of Q2.
-- KR2: Zero latency-related escalations in Q2.
-
-**The discipline:**
-- Set quarterly.
-- 3-5 objectives max; 3-4 KRs per objective max.
-- Hitting 70% is success. 100% means you aimed too low.
-- Review regularly—not just at quarter's end.
-
-OKRs are a commitment device. They force you to name what matters and how you'll know you achieved it. The naming is the work.
-
-## Meetings as production
-
-If your meetings waste time, the design is wrong—not the concept.
-
-**Process meetings** (staff meetings, 1:1s): Regular, predictable, short. For information flow, alignment, and early problem detection. Don't skip them—they're infrastructure.
-
-**Mission-oriented meetings** (decision meetings): Called to solve a specific problem. Must have:
-- An owner who drives
+Must have:
+- An owner who drives (name them)
 - A decision by the end (or explicit "we lack information to decide")
 - Next actions with names attached
 
-If a meeting doesn't fit either category, kill it.
+**Clarify the mode before you start:**
 
-**Grove's rule:** More than six people? It's a broadcast, not a decision. If you need a decision, shrink the room.
+1. *Free discussion, then I decide.* You own the call. You want input.
+2. *Consensus.* Everyone agrees. Slow—use when commitment matters more than speed.
+3. *Delegation.* Someone else decides. You're informed.
 
-## Decisions
+Say it out loud. Ambiguity about who decides is where meetings die.
 
-Clarify the mode before you start:
+**Grove's rule:** More than six people? It's a broadcast. Shrink the room to decide.
 
-1. **Free discussion, then I decide.** Efficient for most things. You own the call and want input.
-2. **Consensus.** Everyone agrees. Slow and expensive—use when commitment matters more than speed.
-3. **Delegation.** Someone else decides; you're informed. Default for anything you can delegate.
+### For process meetings (staff, standups)
 
-Say it out loud: "I want input, but I'll make the call" or "We need full alignment here." Ambiguity about who decides is where meetings die.
+Regular, predictable, short. For information flow and early problem detection. They're infrastructure—don't skip them, but don't let them bloat.
 
-**Reversibility:** Reversible decisions should be fast. Irreversible decisions deserve process. Most decisions are more reversible than they feel.
+If it doesn't fit "decision meeting" or "process meeting," question whether it should exist.
 
-## Performance reviews
+### For OKRs
 
-The review should be the least surprising conversation you have. If someone learns they're underperforming in a review, you already failed as their manager.
+Grove invented these. Simple until you try to use them well.
 
-**Structure:**
+**Objective:** What you want to achieve. Qualitative, ambitious, time-bound.
+**Key Results:** How you'll measure it. Quantitative, specific, verifiable.
 
-1. Assess *output*, not effort. "Worked hard" is not the same as "delivered."
-2. Be specific. "Communication could improve" is noise. "In the last three sprint reviews, stakeholders left confused about scope" is signal.
-3. One message per review. The one thing they should walk away knowing. Everything else is dilution.
+*The discipline:*
+- 3-5 objectives max; 3-4 KRs per objective max
+- Set quarterly, review regularly
+- 70% hit rate is success. 100% means you aimed too low.
 
-**Delivering hard feedback:**
+**Design questions:**
+- If we achieve these KRs, will we have actually achieved the objective?
+- Can we game the KRs without achieving the real goal?
+- Will these drive behavior, or just measure what happens anyway?
 
-Get to the point. "I have difficult news" followed by circling is cruel. State the thing.
+### For feedback/reviews
 
-Don't soften until the message becomes incoherent. If they leave unsure whether they're in trouble, you wasted the conversation.
+The review should be the least surprising conversation. If they learn they're underperforming in a review, you already failed.
 
-## Training
+*Structure:*
+1. Assess output, not effort. "Worked hard" ≠ "delivered."
+2. Be specific. "Communication could improve" is noise. "In three sprint reviews, stakeholders left confused about scope" is signal.
+3. One message per review. The one thing they walk away knowing. Everything else is dilution.
 
-Grove taught management courses at Intel himself—because training is the highest-leverage thing a manager can do.
+*Delivering hard feedback:*
 
-When you train someone once, you improve their output forever. When you write down how something works, you train everyone who reads it. When you coach in a 1:1, you're training.
+Get to the point. "I have difficult news" followed by circling is cruel.
 
-Most managers don't train because it feels slow. But the alternative—not training—means the same problems recur indefinitely.
+Don't soften until the message becomes incoherent. If they leave unsure whether they're in trouble, you wasted it.
 
-**The test:** If someone on your team makes the same mistake twice, did you train them after the first time?
+---
 
-## When you have to fire someone
+## Diagnose Mode: Finding the Leverage Point
 
-Most managers wait too long. By the time you're sure, your team has known for months.
+Something's not working. Let's find where intervention will actually help.
 
-The compassionate move is to act. Prolonged ambiguity is cruel—to the person, the team, and you.
+### The production model
 
-Before you're there: Have you been direct? "I need to see X by Y, or we'll need to discuss your role" is fair. "Improve or else" without specifics is not.
+Every output comes from a process. Shipped features, hired engineers, decisions—all have a production line. Most managers can't see their processes, so they can't improve them.
 
-And once you've decided: don't negotiate with yourself. The conversation doesn't get easier with delay.
+**Grove's breakfast factory:** You run a diner. Eggs, toast, coffee—delivered hot, simultaneously. Start with the limiting step (eggs, longest to cook). Work backward. Add inspection points where catching problems is cheap.
 
-## Your week, designed
+Apply this lens:
 
-Audit your calendar like you'd audit a process:
+**1. What's the limiting step?**
 
-- **How much time is in 1:1s?** Under 4 hours is underinvestment.
-- **How many meetings do you attend without decision rights?** Each one is leverage lost.
-- **When do you think?** If never, you're a router, not a manager.
-- **What did you do this week that only you could do?**
+For shipping features: usually getting to clarity on what to build. For hiring: usually sourcing or closing, rarely interviewing. For decisions: usually information-gathering or conflict-avoidance.
 
-The job isn't to be busy. The job is to ensure your org produces. Schedule accordingly.
+Find the constraint. Optimize there first. Everything else is waste until the bottleneck breaks.
+
+**2. Where do you inspect?**
+
+If the answer is "production," you're paying 10x for bugs you could've caught earlier. Move inspection upstream.
+
+**3. What's your inventory?**
+
+Work in progress consuming resources without delivering value. Every open PR, half-specified project, decision pending "more data." Inventory isn't progress—it's cost.
+
+### Task-relevant maturity
+
+How you manage someone depends on their experience with *this specific task*.
+
+**Low TRM:** New to this task. Tell them what to do and how. Check frequently. Structure, not autonomy.
+
+**Medium TRM:** Some experience. Discuss goals, let them own approach. Available but not hovering.
+
+**High TRM:** They've done this before. Set objectives, disappear. Resource when needed.
+
+This is why good managers seem inconsistent—they're calibrating to person and task, not applying a fixed style.
+
+**Name it out loud:** "You're new to this system, so I'll check in more often than usual. Not about your ability—I'd do this with anyone. Once you're up to speed, I'll back off."
+
+Naming removes the weirdness.
+
+### When someone's struggling
+
+Before escalating:
+- Have you been direct? "I need to see X by Y, or we'll need to discuss your role" is fair. "Improve" without specifics is not.
+- Is this a TRM mismatch? Are you giving high-TRM autonomy to someone who needs low-TRM structure on this task?
+- Have you trained them? If the same mistake happens twice, did you teach after the first?
+
+If the answer is yes to all and they're still struggling: the compassionate move is to act. Prolonged ambiguity is cruel.
+
+### When information isn't flowing
+
+Problems surfacing late means your 1:1s and staff meetings aren't working.
+
+Check:
+- Are 1:1s happening? Weekly or biweekly, protected?
+- Are they status updates? (Bad.) Or problem-surfacing? (Good.)
+- Is there trust? If "everything's fine" is the usual answer, something's wrong.
+- Are you following up? If you forget what they tell you, they stop telling.
+
+---
+
+## The Operating Principles
+
+These apply across modes. They're Grove's manufacturing mindset applied to management.
+
+**Leverage is the game.** Some activities produce 10x their input. Most don't. Find the multipliers. Kill the rest.
+
+**Training compounds.** Invest hours now, it pays forever. Grove taught Intel's management courses himself. Most managers skip training because it feels slow—then watch the same problems recur indefinitely.
+
+**Catch problems early.** A bug in design costs 10x less than one in production. A misalignment caught Monday costs 10x less than one caught after two weeks of work.
+
+**Decisions include deciding.** Your job isn't just to facilitate. "We need more data" is sometimes true and often cowardice. Reversible decisions should be fast. Most decisions are more reversible than they feel.
+
+**See the factory.** Every output has a process. You can't improve what you can't see.
+
+---
+
+## The Standard
+
+Grove's standard is output, not activity.
+
+A full calendar isn't success. Shipped product, made decisions, developed people—that's success. Everything else is theater.
+
+When we work together, we're not optimizing how busy you are. We're optimizing what your organization produces. The question isn't "what did you do?" It's "what did you enable?"
+
+That's the only question that matters.

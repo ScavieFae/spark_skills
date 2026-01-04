@@ -1,113 +1,275 @@
 ---
 name: lean-startup
-description: Lean Startup as operating system, not methodology. Activate when building something new, stuck on a decision to pivot or persevere, or when someone's hiding behind process instead of shipping.
+description: Ries's discipline for learning what to build before you build it. Activate when launching something new, when metrics aren't moving, when you're debating pivot-or-persevere, or when "we're doing lean" has become a way to avoid testing the scary hypothesis.
+allowed-tools: Read, Edit, AskUserQuestion
 ---
 
 # The Lean Startup
 
-The hard part isn't the framework. It's knowing when to trust it and when to trust yourself.
+You're already doing lean. You have the Kanban board, the metrics dashboard, the two-week sprints. You run "experiments."
 
-## The core move
+And yet—the experiments don't test anything scary. The metrics only go up. The process feels productive while nothing changes. You've turned validated learning into a way to avoid facing that your hypothesis might be wrong.
 
-You have a belief about what customers want. You're probably wrong. Find out fast.
+This is lean theater, and most startups are performing it.
 
-That's it. Everything else is machinery for doing this without lying to yourself.
+The methodology exists to make you face the possibility that you're building something nobody wants—before it's too late. The framework is simple: Build-Measure-Learn. But the discipline is honesty, and honesty is rare.
 
-## Speed is the strategy
+---
 
-The advantage of startups isn't resources—it's cycle time. How fast you can move through the loop: have an idea, test it, learn, adjust.
+## When to Use This
 
-Every week you spend "getting ready to test" is a week your belief goes untested. Ship something. Learn something. This week.
+**You might be in lean theater if:**
+- Your metrics can only go up (total users, cumulative revenue)
+- You can't name your riskiest assumption
+- The process feels productive but nothing's changing
+- "We learned a lot" but you can't say what will be different
+- "We need more data" has become a way to avoid deciding
 
-The methodology can become its own form of procrastination. Designing the perfect experiment. Choosing metrics. Building dashboards. Meanwhile, you could've just shown it to ten people.
+**When designing something new:**
+- You're figuring out what to actually test with an MVP
+- You need to prioritize what to build first
+- You're not sure what your riskiest assumption even is
 
-## What's your riskiest assumption?
+**When the data's in and you're stuck:**
+- You shipped and the numbers are ambiguous
+- Someone asks "pivot or persevere?" and you don't have an answer
+- You're explaining away results that didn't go the way you hoped
 
-Every startup has a dozen beliefs baked in. Most don't matter yet. One or two are load-bearing.
+---
 
-Find the belief that, if wrong, makes everything else irrelevant. Test that first.
+## The Principles
 
-"People will pay for this" often isn't it. "People have this problem" comes first. "People will switch from their current solution" comes before that.
+These apply to all modes. They're about learning, not process.
 
-You can build a beautiful product for a problem nobody has. Founders do it constantly. They test execution risk when they should be testing market risk.
+### The loop is the strategy
 
-## The MVP trap
+Build-Measure-Learn. Not "build, then eventually measure, then maybe learn." The loop is the unit of progress.
 
-MVP has been diluted to mean "whatever we shipped." That's not it.
+Every week you spend "getting ready to test" is a week your belief goes untested. The advantage of startups isn't resources—it's cycle time. How fast can you get through the loop?
 
-An MVP is the smallest thing that tests your riskiest assumption. Sometimes that's a landing page. Sometimes it's a conversation. Sometimes it's doing the service manually before you automate it.
+Ship something. Measure something. Learn something. This week.
 
-But here's what gets lost: **viable means viable.** If the thing is so broken that customers bounce before you learn anything, you've learned nothing. You've just confirmed that broken things don't work.
+### Validated learning is the product
 
-And some products—games, creative tools, experiences—can't be reduced to a testable slice. You can't A/B test whether the magic is there. You have to build enough to feel it. Know which kind of thing you're building.
+"We learned a lot" means nothing. Everyone learns a lot. You can learn a lot going bankrupt.
 
-## When the data lies
+Validated learning means: you believed X, you tested X, and now you have evidence that changes what you do next.
 
-Early data is noisy. Small samples mislead. Customers say one thing and do another.
+"Customers want feature Y" is not validated—you learned they said they want it.
+"We built Y and retention doubled" is validated—behavior changed.
 
-The methodology says "trust the data." But sometimes the data reflects your execution, not your idea. Sometimes early adopters aren't representative. Sometimes the thing that tests well is a local maximum—safe, inoffensive, small.
+The bar is high because self-deception is easy.
 
-The founders who build great things often have conviction beyond what early data supports. They see something the data can't show yet.
+### The MVP tests the assumption, not the product
 
-The discipline isn't "always trust the data." It's "know why you're overriding it." If you're ignoring data because it's inconvenient, you're in denial. If you're ignoring data because you see something it can't capture, you might be right.
+MVP has been diluted to mean "whatever we shipped first."
 
-The difference is honesty with yourself. Most people can't tell which one they're doing.
+An MVP is the smallest thing that tests your riskiest assumption. Sometimes that's a landing page. Sometimes it's doing the service manually. Sometimes it's a conversation.
 
-## The pivot
+But **viable means viable**. If it's so broken customers bounce before you learn anything, you've learned nothing. You've confirmed that broken things don't work.
 
-Pivoting is easy to describe, brutal to do.
+The question isn't "what's the least we can build?" It's "what's the fastest way to learn if we're wrong?"
 
-It means admitting the thing you've been working on isn't working. The thing you've told investors about. The thing your team believed in. The thing you believed in.
+### Vanity metrics lie
 
-Most founders pivot too late. Not because of sunk cost—because of identity. The startup *is* the idea, and killing the idea feels like killing the startup.
-
-The tell: you're explaining away bad results. "The metric didn't move, but we learned a lot." "It's just an execution problem." "We need more time."
-
-Maybe. Or maybe the strategy is wrong and you're bargaining.
-
-The question isn't "has it been long enough?" It's "is each experiment moving the needle?" If you've run real tests and the trend is flat, the hypothesis is wrong. Change it.
-
-## What "validated learning" actually means
-
-Not "we learned a lot." Anyone can learn a lot. You can learn a lot while going bankrupt.
-
-Validated learning means: you believed X, you tested X, and now you have evidence about X that changes what you do next.
-
-"We learned customers want feature Y" is not validated. You learned they *said* they want it.
-
-"We built Y and retention went from 20% to 40%" is validated. Behavior changed.
-
-The bar is high because the alternative is self-deception dressed up as progress.
-
-## Vanity metrics
-
-If a metric can only go up, it's vanity. Total users. Total revenue. Cumulative anything.
+If a metric can only go up, it's vanity. Total users. Cumulative revenue. Aggregate anything.
 
 These numbers feel good. They don't inform decisions.
 
-Actionable metrics: retention by cohort, conversion rates, revenue per user, engagement frequency. Numbers that could go up or down. Numbers where the direction tells you something.
+Actionable metrics: retention by cohort, conversion rates, engagement frequency. Numbers that could go up or down. Numbers where the direction tells you something.
 
 The test: if this metric dropped, would you do something different? If not, stop tracking it.
 
-## When not to be lean
+---
 
-Lean works when you're searching—when you don't know what customers want and you're trying to find out.
+## When Activated
 
-It works less well when:
+Determine the mode from context or by asking:
 
-- **You're executing on conviction.** Some founders see something others don't. Testing can sand off the edges that make it great.
-- **The product requires a threshold of quality.** Games, hardware, complex creative tools. You can't test a fraction of the experience.
-- **You're in a winner-take-all market.** Speed to market matters more than learning. Ship and iterate beats test and validate.
-- **You're building infrastructure.** The customer is future-you. The test is "does it work?"
+- **Loop mode** — "I'm designing what to build and test next"
+- **Measure mode** — "I have data and I'm trying to understand what it means"
+- **Pivot mode** — "Something isn't working and I need to decide what to do"
 
-Know which mode you're in. The methodology is a tool, not a religion.
+---
 
-## The real discipline
+## Loop Mode: Designing the Experiment
 
-The Lean Startup isn't about process. It's about honesty.
+You're about to build something. Let's make sure you're testing the right thing.
 
-It's the discipline to ask: what do I believe? It's the courage to test that belief. And it's the rigor to accept what the test tells you, even when it hurts.
+### The riskiest assumption
 
-Most startups fail because they build something nobody wants. Not because they lacked a framework—because they couldn't face the possibility they were wrong until it was too late.
+Before you build anything: what's the riskiest thing you believe?
 
-The methodology helps. But the honesty is the thing.
+Not "people will like it"—too vague. Specific beliefs:
+
+- This problem is painful enough that people will pay to solve it
+- They'll switch from their current solution
+- They'll use it frequently enough to form a habit
+- The person who benefits is the person who buys
+
+Which belief, if wrong, makes everything else irrelevant? Test that first.
+
+Most founders test execution risk ("can we build it?") when they should test market risk ("should we build it?"). You can build a beautiful product for a problem nobody has.
+
+### Designing the MVP
+
+For the riskiest assumption, design the smallest thing that tests it:
+
+**1. What are you testing?**
+State the hypothesis clearly. "We believe [customer segment] will [behavior] because [reason]."
+
+**2. What's the minimum to learn?**
+Not the minimum product—the minimum experiment. Could you test this with a landing page? A manual service? A conversation?
+
+**3. What would success look like?**
+Pick a number before you ship. Conversion rate, retention, engagement—something measurable. If you can't define success in advance, you'll rationalize any result.
+
+**4. What would failure tell you?**
+If the metric doesn't hit, what will you do differently? If the answer is "nothing," you're not running an experiment.
+
+### The output
+
+Before building, you should have:
+- The riskiest assumption, stated clearly
+- The MVP that tests it (not the product—the test)
+- Success criteria, defined in advance
+- What you'll do if it fails
+
+---
+
+## Measure Mode: Reading the Data
+
+You've shipped. The data's in. Let's figure out what you've actually learned.
+
+### The basic check
+
+**1. What was the hypothesis?**
+
+If you can't state what you were testing, you weren't running an experiment. You were just shipping.
+
+**2. What did the data show?**
+
+Not "how do you feel about the results." The numbers. Retention. Conversion. Engagement. Whatever you said you'd measure.
+
+**3. Did you hit your success criteria?**
+
+This is binary. Either you hit the number you defined in advance, or you didn't. If you didn't define a number, you can't answer this question—and you've learned nothing rigorous.
+
+### The vanity check
+
+For each metric you're tracking:
+
+- **Can it go down?** If not, it's vanity.
+- **Would a change drive a decision?** If not, stop tracking it.
+- **Is it behavior or opinion?** Signups are behavior. NPS is opinion. Behavior wins.
+- **Is it cohorted?** Aggregate numbers hide trends. Week-1 retention by cohort shows you reality.
+
+### The learning
+
+State what you learned in this format:
+
+**We believed:** [hypothesis]
+**We tested:** [what you shipped]
+**We measured:** [specific metrics]
+**We learned:** [what the data showed]
+**We'll change:** [what you're doing differently]
+
+If you can't fill in "We'll change," you haven't learned anything actionable. Go back to the data.
+
+---
+
+## Pivot Mode: The Hard Conversation
+
+The thing isn't working. The metrics are flat. The hypothesis was wrong—or was it?
+
+This is where most founders fail. Not from lack of framework. From lack of honesty.
+
+### The diagnostic
+
+**Are you explaining away results?**
+
+Warning signs:
+- "The metric didn't move, but we learned a lot"
+- "It's an execution problem, not a strategy problem"
+- "We need more time"
+- "The early adopters aren't representative"
+
+Maybe these are true. Or maybe you're bargaining with reality.
+
+**What does the trend show?**
+
+Not one data point—the trend. Are things getting better? Is each experiment moving the needle? If you've run three real tests and the line is flat, the hypothesis is probably wrong.
+
+**Why are you still here?**
+
+Honest question: Are you persevering because the evidence supports it, or because pivoting feels like failure?
+
+Pivoting isn't giving up. Pivoting is admitting the strategy is wrong while the mission is still worth pursuing. The startup isn't the idea. Killing the idea isn't killing the company.
+
+### The pivot types
+
+If you decide to pivot, what kind?
+
+- **Zoom-in pivot:** One feature becomes the product
+- **Zoom-out pivot:** The product becomes one feature of something larger
+- **Customer segment pivot:** Same product, different customers
+- **Problem pivot:** Same customers, different problem
+- **Channel pivot:** Same product, different route to customers
+- **Value capture pivot:** Same product, different business model
+
+Which type fits the evidence? What did you learn that points in a direction?
+
+### The persevere case
+
+Perseverance isn't default. It requires evidence:
+
+- Each experiment is improving the metrics
+- You have specific hypotheses for what will work next
+- You can articulate why previous failures don't invalidate the strategy
+- You're not just out of ideas for pivots
+
+"We haven't given it enough time" is not a perseverance case. "We've seen X improve, we believe Y will improve next because Z" is.
+
+### The output
+
+After the conversation, you should know:
+
+- **Pivot or persevere?** (decided, not deferred)
+- **If pivot:** Which type, and what's the new hypothesis?
+- **If persevere:** What's the next experiment, and what would change your mind?
+
+---
+
+## The Traps Beyond Theater
+
+You've avoided lean theater. But the methodology has other failure modes.
+
+### The vision trap
+
+Some founders see something others don't. The data won't show it yet. Testing can sand off the edges that make it great.
+
+This is real. And it's also the excuse every failed founder uses.
+
+The question isn't "do you have conviction?" Everyone has conviction. The question is: why do you believe the data is wrong? Not "it's early"—why specifically? What do you see that the numbers can't capture?
+
+If you can articulate it, you might be right. If you can't, you're probably in denial.
+
+### The local maximum trap
+
+You tested. You optimized. You found something that works.
+
+But "works" might be a local maximum—safe, small, inoffensive. The thing that tests well with cautious early users isn't always the thing that wins the market.
+
+Lean helps you avoid building something nobody wants. It doesn't automatically help you build something people love. Some products require a leap.
+
+---
+
+## The Honest Question
+
+At any point, you should be able to answer:
+
+**What's the riskiest thing you believe, and how are you testing it?**
+
+If you can't answer that, you're doing theater.
+
+The methodology exists for one purpose: facing the possibility that you're wrong—before it's too late. That's uncomfortable. It's supposed to be.

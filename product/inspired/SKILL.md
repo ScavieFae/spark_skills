@@ -1,150 +1,295 @@
 ---
 name: inspired
-description: Cagan's diagnosis of product org dysfunction. Activate when assessing why shipped features don't move metrics, why roadmaps feel political, or when building discovery practices from scratch.
+description: Cagan's field guide to building products that actually matter. Use when doing product work—writing PRDs, evaluating ideas, navigating stakeholders, setting up teams. For PMs and product orgs who want to operate like the best, whether fixing dysfunction or raising an already-good bar.
+allowed-tools: Read, Edit, AskUserQuestion
 ---
 
 # Inspired
 
-Most product teams ship. They're not failing at delivery. They're failing at discovery—building features nobody wanted, driven by roadmaps set before anyone understood the problem.
+## When to Use This
 
-## The feature factory diagnosis
+Use this when doing product work and wanting to do it well: writing PRDs, evaluating ideas, navigating stakeholders, setting up teams, pressure-testing roadmaps.
 
-You're in a feature factory if:
+Also use it when something feels off—shipping but nothing moves, roadmaps driven by politics, too much project management and not enough discovery.
 
-- Roadmaps come from stakeholders, not discovery
-- Success = "did we ship?" not "did it work?"
-- PMs spend more time on project management than customer problems
-- Engineers find out about features after decisions are made
-- No one can explain why the last three releases mattered
+The aspiration: build things that matter. Cagan shows what that looks like.
 
-Feature factories feel productive. Releases happen. Jira tickets close. But the product drifts while competitors learn faster.
+---
 
-## Outputs vs. outcomes—the gap that matters
+## The Core Problem
 
-Roadmaps optimize for outputs. "Ship feature X in Q2."
+You're leading meetings all day. Sprints ship their points on time. Features launch. And yet none of it matters.
 
-Outcomes are what actually changes. "Reduce churn by 20%." "Make enterprise customers self-serve."
+The roadmap wasn't yours. It came down from somewhere—a stakeholder, a sales promise, an exec's conviction. Your job became making it happen, not figuring out if it should. An engineer asked "why are we building this?" and you didn't have a real answer.
 
-Output-driven teams commit to solutions before understanding problems. Outcome-driven teams can discover the first idea was wrong.
+This is the feature factory. It ships constantly. Everyone's busy. Nothing learns.
 
-When leadership requests a feature, translate: "You want a dashboard—what decision should users be able to make?" Often the feature isn't the answer. Sometimes there's no real problem.
+Shipping the wrong thing fast is just expensive failure. Cagan saw this at dozens of companies before he saw the alternative at the best ones. The gap isn't talent or effort. The gap is that most teams commit to solutions before they understand problems.
 
-## What empowerment actually means
+---
 
-Not autonomy without accountability:
+## The Principles
 
-1. A clear outcome to achieve—not a feature spec
-2. Context to decide well—business model, strategy, constraints
-3. Direct customer access—not filtered through reports
-4. Authority to ship—not pitching up the chain
-5. Accountability for results—not just delivery dates
+These apply across all modes.
 
-If your "empowered" team needs approval for every solution, it's a feature team with better branding.
+### The gap between shipping and winning
 
-## Discovery is a practice, not a phase
+Shipping is table stakes. The question is whether you're learning.
 
-Discovery runs continuously alongside delivery.
+Output-driven teams commit to solutions before understanding problems. "Ship feature X in Q2." If X was the wrong answer, they ship it anyway—because the commitment was to the output, not the outcome.
 
-**Weekly:** Talk to customers. Watch them use the product. Non-negotiable.
+Outcome-driven teams can discover the first idea was wrong. "Reduce churn by 20%." The feature is a bet, not a promise. If it doesn't work, try something else.
 
-**Weekly:** Test something—prototype, concept, value prop.
+Most roadmaps are output commitments dressed as strategy.
 
-**Before committing engineering:** Validate this idea has a chance.
+### What empowerment actually requires
 
-The test: can you kill a bad idea before engineering time is spent? If everything conceived gets built, you're doing feature development with extra steps.
+"Empowered teams" became a buzzword. Here's the test:
 
-## The four risks—test in order
+1. **Clear outcomes** — not feature specs
+2. **Business context** — strategy, constraints, why this matters
+3. **Direct customer access** — not filtered through stakeholder summaries
+4. **Authority to ship** — not pitching up the chain for approval
+5. **Accountability for results** — not just delivery dates
 
-Every idea carries four risks:
+If your "empowered" team needs approval for every solution, you've rebranded the feature factory.
 
-**1. Value.** Will customers want this?
-- Test with: fake door tests, landing pages, value prototypes
-- The question: does anyone care?
+### Discovery runs alongside delivery
 
-**2. Usability.** Can they figure it out?
-- Test with: clickable prototypes, user sessions
+Discovery isn't a phase. Teams that "do discovery first" are doing waterfall with extra steps.
+
+The practice:
+- **Weekly:** Talk to customers. Watch them use the product. Non-negotiable.
+- **Weekly:** Test something—prototype, concept, value prop.
+- **Before committing engineering:** Validate this idea has a chance.
+
+The test: can you kill a bad idea before engineering time is spent? If everything conceived gets built, you're decorating your feature factory with discovery theater.
+
+### The triad discovers together
+
+PM, designer, tech lead—in the room when ideas form, not passing documents down a chain.
+
+**PM owns viability:** Will this work for the business? Constraints, stakeholders, monetization.
+**Designer owns usability:** Can people figure this out? Prototypes, tests, friction.
+**Tech lead owns feasibility:** Can we build it? What does it cost? What doors does it close?
+
+Dysfunction looks like: PM writes spec, designer makes it pretty, engineer estimates. Everyone's busy. Nobody's discovering. The idea was locked before anyone tested it.
+
+---
+
+## When Activated
+
+Determine the mode from context or by asking:
+
+- **Diagnose mode** — "Is my team or org healthy, or are we a feature factory?"
+- **Discover mode** — "How should we run continuous discovery?"
+- **Evaluate mode** — "Should we build this thing?" (including when a stakeholder is pushing for it)
+
+---
+
+## Diagnose Mode: Feature Factory or Product Team?
+
+Run the diagnostic honestly. The point isn't to feel good—it's to see clearly.
+
+### The feature factory signals
+
+Score yourself. How many apply?
+
+- [ ] Roadmaps come from stakeholders, not discovery
+- [ ] Success means "did we ship?" not "did it work?"
+- [ ] PMs spend more time managing projects than understanding customers
+- [ ] Engineers find out about features after decisions are made
+- [ ] Discovery happens in a "phase" before development, if at all
+- [ ] Ideas rarely die—everything conceived eventually ships
+- [ ] Nobody can explain why the last three releases mattered
+- [ ] "Empowerment" means choosing *how* to build, not *what* or *why*
+
+**0-2:** You might be healthy. Verify with outcomes: are shipped features moving metrics?
+
+**3-5:** Feature factory tendencies. The practices exist but the gravity pulls toward output theater.
+
+**6+:** Full feature factory. You're busy shipping things that don't matter.
+
+### The honest questions
+
+If you scored high, sit with these:
+
+- When did you last kill an idea based on discovery?
+- When did you last talk directly to a customer (not read a summary)?
+- What shipped last quarter that moved a metric you care about?
+- Could you explain to an engineer *why* they're building what they're building?
+
+### What healthy looks like
+
+- Ideas die regularly. Most things tested don't ship.
+- Engineers are in discovery—they know why, not just what.
+- Roadmaps change when you learn something new.
+- Success is measured in outcomes, not output.
+- PMs spend more time with customers than stakeholders.
+
+The goal isn't perfection. The goal is learning faster than organizational drift.
+
+---
+
+## Discover Mode: Running Continuous Discovery
+
+Discovery that actually works. Not a phase, not a ritual—a practice that runs alongside delivery.
+
+### The weekly cadence
+
+**Talk to customers.** Every week. Watch them use the product. Listen to how they describe problems. This is non-negotiable. If you're not doing this, everything else is guessing.
+
+**Test something.** Every week. A prototype, a concept, a value proposition. Low-fidelity is fine. The goal is learning, not polish.
+
+**Share with the triad.** PM, designer, tech lead—all seeing the same customer reality. No telephone game.
+
+### The four risks
+
+Every idea carries these. Test in order:
+
+**1. Value** — Will customers want this?
+- Test with: fake doors, landing pages, concept prototypes
+- The question: does anyone actually care?
+
+**2. Usability** — Can they figure it out?
+- Test with: clickable prototypes, watched sessions
 - Watch in silence. If you're explaining, it's failing.
 
-**3. Feasibility.** Can we build it?
-- Engineers answer this—involve them early
-- A week of feasibility beats a quarter of failed implementation
+**3. Feasibility** — Can we build it?
+- Engineers answer this. Involve them early.
+- A week of feasibility investigation beats a quarter of failed implementation.
 
-**4. Viability.** Does it work for the business?
+**4. Viability** — Does it work for the business?
 - Legal, compliance, monetization, operations
-- Stakeholders know these constraints
+- Stakeholders know these constraints. Include them before you're committed.
 
-Failure mode: teams skip to building, discover feasibility problems midway, viability problems at launch, ship anyway because sunk cost.
+**The failure mode:** Teams skip to building, discover feasibility problems midway, viability problems at launch, ship anyway because sunk cost. Then wonder why it didn't work.
 
-## The triad in practice
+### The prototype mindset
 
-PM, designer, tech lead—discovering together, not handing off.
+Prototypes are for learning, not selling.
 
-**PM:** Viability. Business context, constraints, outcomes. Defines problems, not solutions.
+A prototype that "sells" stakeholders on an untested idea is worse than no prototype. You've created commitment before learning.
 
-**Designer:** Usability. How the product works, not how it looks. Prototypes and tests.
+The question for every prototype: what are we trying to learn? If the answer is "whether leadership will approve," you're doing theater.
 
-**Tech lead:** Feasibility. What's possible, what's expensive, what architecture decisions this creates. In the room when ideas form, not consulted after.
+---
 
-Dysfunction: PMs designing features, designers only decorating, engineers just estimating. Everyone's busy. Nobody's discovering.
+## Evaluate Mode: Should We Build This?
 
-## Opportunity assessment—seven questions that kill bad ideas
+Before committing engineering time, seven questions that kill bad ideas.
 
-Before committing:
+### The opportunity assessment
 
-1. **What problem?** State it crisply or stop.
-2. **For whom?** "Users" is not a target.
-3. **How do we know it's a problem?** Evidence, not intuition.
-4. **How will we know we solved it?** The metric that moves.
-5. **Why now?** What changed?
-6. **Why us?** What's our advantage?
-7. **What if we don't?** Is this actually important?
+Seven questions. Answer them honestly, in writing, before you commit engineering.
+
+**What problem are we solving?** State it in one sentence. If you can't, you don't understand it yet.
+
+**For whom?** "Users" is not an answer. Which users? Doing what? Struggling with what?
+
+**How do we know this is a real problem?** What's your evidence? Not intuition. Not a stakeholder request. Observed behavior. Customer quotes. Something real.
+
+**How will we measure success?** Name the metric. If you can't, you won't know whether it worked—and you'll ship it anyway and call it a win.
+
+**Why now?** What changed? Why this over the other problems you could solve?
+
+**Why us?** What's our advantage? Why will we solve this better than the alternatives they already have?
+
+**What if we don't?** What happens if you work on something else instead? If the answer is "not much"—why are you building this?
+
+### The kill gate
 
 Most ideas can't survive seven questions. That's the point.
 
-## Stakeholder dynamics
+If you're struggling with evidence or measurement, the idea isn't ready. Go back to discovery.
 
-Two failure modes:
+If "what if we don't?" doesn't have a painful answer, this isn't important enough to build.
 
-**Pushover:** Take the feature request, build it. You're an order taker now.
+### The courage to kill
 
-**Gatekeeper:** Keep stakeholders out of discovery, surprise them with solutions they can't approve.
+The hardest part: killing ideas that feel promising.
 
-The fix: involve stakeholders in discovery, not solutioning. Share customer insights. Let them see the problem. When you propose solutions, there's context.
+Stakeholders are excited. The team has momentum. Someone important suggested it. Killing feels like failure.
 
-When a stakeholder insists on a feature, ask what outcome they need. They grabbed the first solution that came to mind. There might be better ways.
+Reframe: every bad idea killed is engineering time saved for good ideas. The team that kills more learns more. The team that builds everything learns nothing—they're too busy shipping to notice what worked.
 
-## Product vision forces decisions
+### When the idea comes from a stakeholder
 
-Not inspirational fluff—a detailed picture of the future, 3-10 years out.
+Leadership wants a feature. Maybe a dashboard. Maybe an integration. Maybe "AI something." You have two bad options and one good one.
 
-It breaks ties. When two directions are reasonable, the vision decides. It gives teams context to act without constant check-ins.
+**Pushover:** Take the request, build it. You're an order-taker now.
 
-Teams without vision optimize locally. Features accumulate without adding up to anything.
+**Gatekeeper:** Push back, protect the team, fight the request. You win battles and lose wars.
 
-## Product-market fit signals
+**The good option:** Translate the feature to an outcome.
 
-You don't need a survey:
+They said: "We need a dashboard for enterprise customers."
 
-- Customers come to you
-- Usage grows without pushing
-- Customers notice when you break things
-- Competitors copy you
-- You're struggling to keep up
+Ask: "What decision should enterprise customers be able to make with this dashboard?"
 
-Before fit, nothing else matters. Don't scale. Don't optimize. Don't build what one enterprise customer wants. Find fit first.
+Now you're discovering the real problem. Maybe it's visibility. Maybe it's proving ROI. Maybe the dashboard isn't the answer at all.
 
-## Use this to diagnose
+**The move:**
+1. Accept the outcome they want
+2. Investigate whether their proposed solution is the right one
+3. Come back with options—including theirs—with tradeoffs
+4. Let them choose with real information
 
-- Shipped features that don't move metrics
-- Roadmaps disconnected from customer needs
-- PMs acting like project managers
-- Engineering and product feeling like separate teams
+You're not fighting. You're doing your job.
 
-And to establish:
+**When you can't translate:** Sometimes leadership won't discuss outcomes. Politics, ego, promised to a customer. You have three choices: build it and own the result, document your concerns (weak), or escalate and accept the consequences. Sometimes orgs aren't ready.
 
-- Continuous discovery cadence
-- Outcome-driven planning
-- Prototype-and-test before committing
-- Stakeholder involvement without capture
+---
 
-The goal: learn faster than the org's natural drift toward feature factory.
+## The Voice
+
+Cagan has seen Netflix, Google, eBay—he knows what good looks like. That makes mediocre harder to accept.
+
+When you say "we shipped the roadmap," he asks: "Did any of it matter?"
+
+When you say "stakeholders won't let us," he asks: "Have you tried involving them in discovery?"
+
+When you say "we don't have time," he asks: "You have time to build the wrong thing?"
+
+He's not mean. He's just seen too many smart people waste years on theater.
+
+---
+
+## Quick Reference
+
+### Feature factory signals
+- Roadmaps from stakeholders, not discovery
+- Success = shipped, not worked
+- Ideas rarely die
+- Engineers find out late
+- Outcomes unmeasured
+
+### The four risks (test in order)
+1. Value — will they want it?
+2. Usability — can they use it?
+3. Feasibility — can we build it?
+4. Viability — does it work for the business?
+
+### Seven questions before committing
+1. What problem?
+2. For whom?
+3. How do we know?
+4. How will we measure?
+5. Why now?
+6. Why us?
+7. What if we don't?
+
+### Stakeholder translation
+"We need feature X" → "What outcome do you need? Let's find the best way to get there."
+
+---
+
+## The Point
+
+There's a version of this job where you build things that matter. Where shipped features move metrics and you can explain why. Where you look back at a year and point to outcomes, not outputs.
+
+Most product teams never find it. They're too busy shipping.
+
+Cagan's book is for people who want to be good at this—not just productive. The politics don't disappear. But you stop managing tickets and start building products.
+
+That's the job.

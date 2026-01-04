@@ -1,175 +1,230 @@
 ---
 name: 7-powers
-description: Hamilton Helmer's diagnostic for durable competitive advantage. Activate when pressure-testing strategy, evaluating whether a moat is real, or asking the hard question: can this business defend its position?
+description: Hamilton Helmer's diagnostic for durable competitive advantage. Activate when pressure-testing strategy, when someone claims a "moat," or when you need to answer the hard question—can this business defend its position, or is it a commodity with good marketing?
+allowed-tools: Read, Edit, AskUserQuestion
 ---
 
 # 7 Powers
 
-The framework for asking: does this business have a defensible position, or is it a commodity with good marketing?
+Power is the only source of durable competitive advantage. There are exactly seven types. Most businesses have none. If you can't name yours, you probably don't have one.
 
-## Power is benefit plus barrier
+---
 
-Most strategy frameworks focus on differentiation—being better. That's not power.
+## When to Use This
+
+**Evaluating a business or strategy:**
+- Due diligence on a company, investment, or acquisition
+- "What's our moat?" came up in a strategy discussion
+- Someone claimed competitive advantage—you want to test it
+
+**Pressure-testing your own position:**
+- You're growing fast and wondering if you're building something defensible
+- Competitors are emerging and you're unsure if you can hold them off
+- You're about to raise and need to articulate your defensibility
+
+**Planning for power:**
+- You're pre-PMF and choosing what model to pursue
+- You're scaling and need to decide what power to build
+- You're prioritizing between features that might create lock-in vs. features that just make the product better
+
+**The uncomfortable trigger:** You're succeeding, but you can't articulate why a well-funded competitor couldn't replicate it in 2-3 years.
+
+---
+
+## The Core Insight
+
+Most strategy frameworks focus on being better. That's not power. Being better is a temporary state. Someone can always outwork you.
 
 Power requires two things:
-1. **Benefit**: Something that improves your economics (lower costs, higher prices, better retention)
+1. **Benefit**: Something that improves your economics—lower costs, higher prices, better retention
 2. **Barrier**: Something that prevents competitors from copying that benefit
 
-The barrier is where most claimed "power" falls apart. Everyone has benefits. Few have barriers that hold.
+The barrier is where most claimed power falls apart. Everyone has benefits. Few have barriers that hold. The awkward truth: your "competitive advantage" is probably just execution that a well-funded competitor could replicate in two years.
 
-When assessing strategy, ask: **What's the barrier?** If the answer is vague ("we move fast," "we have great culture," "we know the market"), there is no power. The benefit will get competed away.
-
----
-
-## The diagnostic
-
-### Scale Economies
-
-**The benefit**: Per-unit costs decline as volume increases.
-
-**What actually creates the barrier**: Fixed costs spread over more units. But the question is magnitude. Every business has some scale economies. Power exists only when the cost curve is steep enough that a challenger, starting smaller, faces structurally worse unit economics for years—long enough that they run out of capital or can't match your pricing.
-
-**Red flags (claimed scale economies that aren't power)**:
-- "We'll have lower costs at scale" — everyone will. What makes your curve steeper?
-- Scale economies in commodity inputs — your supplier's scale economies, not yours
-- Scale in a segment, not the business — local advantage that doesn't compound
-
-**Probe**: At what scale do costs plateau? How long would it take a well-funded competitor to reach the same cost structure? If the answer is "2-3 years with enough capital," this isn't power.
+**The test:** If your board decided tomorrow to copy a competitor exactly, what would stop them? If you have a clear answer involving structural constraints, there may be power. If the answer involves execution, culture, or "they'd have to be smart enough to try"—there's no power.
 
 ---
 
-### Network Effects
+## When Activated
 
-**The benefit**: Value to each user increases as more users join.
+Determine the mode from context or by asking:
 
-**What actually creates the barrier**: Critical mass. Once you're past the tipping point, challengers can't attract users because your network is more valuable, and they can't become more valuable without users. The loop locks.
-
-**Red flags (claimed network effects that aren't power)**:
-- "Users share content" — that's virality, not network effects. Sharing helps acquisition; it doesn't increase value to existing users.
-- "Marketplace" without critical density — many markets need local or category saturation to tip. National GMV means nothing if you're thin everywhere.
-- "Social features" — users can post and comment. So what? The question is whether your network's value is proportional to its size.
-
-**Probe**: What specifically becomes more valuable as the network grows? At what scale does it tip? Is the network effect same-side (more users = more value to users) or cross-side (more supply = more value to demand)? Cross-side is more common, weaker, and often doesn't create lock-in.
+- **Diagnose mode** — "What power does this business actually have?"
+- **Build mode** — "What power can we establish, given our stage?"
+- **Capture mode** — "We have power—are we converting it to margin?"
 
 ---
 
-### Counter-Positioning
+## Diagnose Mode: The Honest Assessment
 
-**The benefit**: A new business model that produces superior economics for the challenger.
+You're evaluating a business—yours or someone else's. The goal is truth, not comfort.
 
-**What actually creates the barrier**: The incumbent *cannot adopt the new model without damaging their existing business*. Not "won't"—can't.
+### The opening question
 
-This is the most misunderstood power. Differentiation is not counter-positioning. Doing something better is not counter-positioning. Counter-positioning exists only when responding to you would require the incumbent to cannibalize their core revenue, antagonize their existing customers, or abandon their distribution model.
+**What power does this business claim?**
 
-**Red flags (claimed counter-positioning that isn't power)**:
-- "We're disrupting X" — buzzword, not analysis. What specifically prevents X from doing what you do?
-- "They're slow / they don't get it" — that's an execution gap, not a structural barrier. They can hire and learn.
-- "They'd have to change their culture" — cultures change when revenue is threatened. This is not a barrier.
+Listen for: scale economies, network effects, switching costs, branding, counter-positioning, cornered resource, process power. If they don't use these terms, translate what they're describing.
 
-**Probe**: If the incumbent's board convened tomorrow and decided to copy you exactly, what would stop them? If the answer involves their existing revenue, distribution, or customer expectations—there may be power. If the answer is "they'd have to be smart enough to try"—there's no power.
+Then: **What's the specific mechanism of the barrier?**
 
-**The canonical test**: Does responding to you require them to destroy something they have? Verizon can't match Google Fi's pricing without destroying ARPU. Enterprise software companies can't unbundle without destroying their sales model. That's counter-positioning. Everything else is just competition.
+Not the benefit—the barrier. "We have lower costs" is a benefit. "Our cost curve requires $2B in infrastructure investment to match" is a barrier mechanism.
 
----
+### The seven-power diagnostic
 
-### Switching Costs
+For each claimed power, apply the specific test:
 
-**The benefit**: Customers stay even when competitors offer better alternatives, because leaving is costly.
+**Scale Economies**
+- At what scale do costs plateau?
+- How long would it take a well-funded competitor to reach the same cost structure?
+- If the answer is "2-3 years with enough capital"—this isn't power.
 
-**What actually creates the barrier**: The cost of switching—financial, procedural, emotional—exceeds the benefit of the competing offer.
+**Network Effects**
+- What specifically becomes more valuable as the network grows?
+- At what scale does it tip?
+- Is the network effect same-side or cross-side? (Cross-side is weaker and often doesn't create lock-in.)
 
-**Red flags (claimed switching costs that aren't power)**:
-- "Our customers love us" — that's satisfaction, not lock-in. Love doesn't survive a 30% discount.
-- "We integrate deeply" — so will your competitor. Integration is a one-time cost; switching costs must be recurring.
-- "Data lives in our platform" — exportable? Then it's not lock-in.
+**Counter-Positioning**
+- If the incumbent decided to copy you exactly, what would stop them?
+- Does responding require them to destroy something they have—revenue, distribution, customer relationships?
+- If the barrier is that "they'd have to change their culture"—cultures change when revenue is threatened. Not power.
 
-**Probe**: If a competitor offered the same thing at 20% lower price, how many customers would stay? If a customer left after 3 years, how much would they lose that they couldn't rebuild elsewhere?
+**Switching Costs**
+- If a competitor offered 20% lower price, how many customers would stay?
+- What do customers lose that they can't rebuild elsewhere?
+- Are switching costs financial, procedural, or emotional? (All three together is strongest.)
 
-**The real switching costs**: Financial (liquidating a position, breaking a contract, repricing derivatives). Procedural (retraining staff, rebuilding workflows, re-integrating systems). Emotional (identity, relationships with account teams, community ties).
+**Branding**
+- Would customers pay 20%+ more for functionally identical products?
+- If not, you have awareness, not power.
+- For early-stage: skip this. You don't have it and can't build it in years.
 
----
+**Cornered Resource**
+- Can this resource be bought, hired away, built, licensed, or substituted?
+- If yes to any—it's not cornered.
+- "Our team is exceptional" is not a cornered resource. Teams are liquid.
 
-### Branding
+**Process Power**
+- Is this documented knowledge or tacit organizational capability?
+- Has it been built over decades?
+- For early-stage: skip this. Your "velocity" is not process power.
 
-**The benefit**: Customers pay a premium or choose preferentially based on associations beyond functional attributes.
+### Red flag phrases
 
-**What actually creates the barrier**: Decades of consistent delivery that creates trust, identity, or aspiration that competitors can't replicate quickly.
+When you hear these, dig deeper—they usually mask an absence of power:
 
-**For early-stage companies: Ignore this power.** You don't have it. You can't build it in years. It requires generational consistency. Startups that claim branding power are confused about what branding is.
+| They say | What's probably true |
+|----------|---------------------|
+| "We move faster" | Execution gap, not structural barrier |
+| "We know the market better" | Knowledge can be acquired |
+| "Our culture is special" | Cultures change when revenue is threatened |
+| "We have the data advantage" | Data commoditizes faster than you think |
+| "We're the leader" | Leadership isn't power—it's temporary position |
+| "We're disrupting X" | Buzzword, not analysis |
 
-**The test for whether branding is real power**: Would customers pay 20%+ more for functionally identical products? If not, you have awareness, not power.
+### Output format
 
----
+1. **Claimed power**: What power does the business believe it has?
+2. **Barrier mechanism**: What specifically prevents competitors from replicating the benefit?
+3. **Barrier durability**: How long would it take a well-funded, competent competitor to overcome it?
+4. **Verdict**: Real power, emerging power, or no power?
 
-### Cornered Resource
-
-**The benefit**: Preferential access to a valuable asset—talent, patents, regulatory licenses, content, location.
-
-**What actually creates the barrier**: The resource is genuinely scarce and cannot be replicated or substituted.
-
-**Red flags (claimed cornered resources that aren't power)**:
-- "Our team is exceptional" — teams are liquid. Cornered resource means you have locked-in access that competitors cannot match through recruitment or acquisition.
-- "Patents" — most patents are narrow, designable-around, or not worth enforcing. A patent thicket might be power; a handful of patents rarely is.
-- "First-mover data advantage" — data compounds slowly and commoditizes quickly. Unless your data is structurally unreplicable (not just hard to replicate), this isn't power.
-
-**Probe**: Can this resource be bought? Hired away? Built? Licensed? Substituted with something nearly as good? If yes to any, it's not cornered.
-
----
-
-### Process Power
-
-**The benefit**: Embedded organizational capabilities that produce lower costs or higher quality than competitors.
-
-**What actually creates the barrier**: Organizational complexity built over years that cannot be copied because it exists tacitly in systems, culture, and coordination—not in documentable processes.
-
-**For early-stage companies: Ignore this power.** Like branding, it requires decades. Toyota's production system is process power. Your startup's "velocity" is not.
-
----
-
-## When power can be established
-
-This is Helmer's dynamics contribution. Different powers are achievable at different stages:
-
-**At origination (pre-product-market fit)**:
-- Counter-positioning — baked into the model from day one, or never
-- Cornered resource — you have it or you don't
-
-**At takeoff (scaling)**:
-- Network effects — must be triggered during growth; retrofitting is nearly impossible
-- Scale economies — build during expansion; the curve steepens as you grow
-- Switching costs — built as customers adopt and integrate; each cohort locks in
-
-**At stability (market leader)**:
-- Branding — decades of consistent delivery
-- Process Power — decades of refinement
-
-The implication: if you're scaling without building power, you're building a commodity business. Growth without power accumulation is vanity.
+Be direct. Most businesses have no power. That's the honest assessment.
 
 ---
 
-## The "so what?" question
+## Build Mode: Establishing Power
 
-Power is potential energy. You must convert it to economics.
+You're at a stage where power can be established. Different powers are available at different moments.
 
-**If you have network effects**: Are you pricing to capture value, or racing to subsidize growth indefinitely?
+### Stage-based options
 
-**If you have switching costs**: Are you actually charging a premium, or are you afraid to "risk the relationship"?
+**At origination (pre-PMF):**
+- **Counter-positioning** — baked into the model from day one, or never. Ask: Does our model require incumbents to cannibalize themselves to respond?
+- **Cornered resource** — you have it or you don't. Ask: Do we have access to something scarce that can't be replicated?
 
-**If you have scale economies**: Have you passed the cost savings to customers (competing them away) or captured them as margin?
+**At takeoff (scaling):**
+- **Network effects** — must be triggered during growth. Ask: What in our product becomes more valuable as more people use it? How do we reach critical mass?
+- **Scale economies** — build during expansion. Ask: What fixed costs can we spread? How steep is our cost curve?
+- **Switching costs** — built as customers adopt. Ask: What creates procedural, financial, or emotional lock-in as customers go deeper?
 
-Power creates the *potential* for differential returns. Execution determines whether you capture them.
+**At stability (market leader):**
+- **Branding** and **Process Power** — require decades. Not relevant for early stages.
+
+### The honest questions
+
+Before planning power-building:
+
+1. **What stage are we actually in?** (Not where we wish we were.)
+2. **Which powers are available at this stage?**
+3. **Are we building toward power, or just growing?**
+
+The uncomfortable truth: if you're scaling without accumulating power, you're building a commodity business. Growth without power is vanity.
+
+### Designing for power
+
+For each power you want to build:
+
+- **What's the specific mechanism?** Not "we'll have network effects" but "each new seller increases selection, which increases buyer conversion, which attracts more sellers."
+- **What's the trigger?** When does the power lock in? What's the tipping point?
+- **What's the timeline?** How long until the barrier is durable?
+- **What could go wrong?** How might the power fail to materialize?
+
+### Output format
+
+1. **Stage**: Where is this business in its lifecycle?
+2. **Available powers**: Which can realistically be established now?
+3. **Power strategy**: What specific mechanism are you building toward?
+4. **Trigger conditions**: What needs to happen for the power to lock in?
+5. **Risk**: What could prevent the power from materializing?
 
 ---
 
-## The final question
+## Capture Mode: Converting Power to Margin
 
-When assessing any business, ask:
+You have power. The question is whether you're converting it to differential returns.
 
-1. What power does this business claim to have?
-2. What is the *specific mechanism* of the barrier? (Not the benefit—the barrier.)
-3. Is the barrier sufficient? At what point would a well-funded, competent competitor overcome it?
-4. If power exists, is it being captured as margin, or competed away?
+### The gap between potential and capture
 
-Most businesses have no power. They have differentiation, execution advantages, temporary leads. Those are real—but they're not defensible.
+Power creates *potential* for superior economics. Execution determines whether you capture it.
+
+**Network effects:** Are you pricing to capture value, or racing to subsidize growth indefinitely?
+
+**Switching costs:** Are you actually charging a premium, or are you afraid to "risk the relationship"?
+
+**Scale economies:** Have you passed the savings to customers (competing them away) or captured them as margin?
+
+**Counter-positioning:** Are you exploiting the incumbent's constraints, or playing it safe?
+
+### The audit
+
+For each source of power:
+
+1. **How are you monetizing it?** Be specific about price, margin, or retention advantage.
+2. **Are you leaving money on the table?** What would happen if you charged more?
+3. **Are you competing it away?** Passing benefits to customers that you could capture?
+4. **What's the evidence?** Gross margin, retention rates, price premium vs. competitors?
+
+### Output format
+
+1. **Power identified**: What power exists?
+2. **Current capture**: How is it being converted to economics?
+3. **Capture gap**: Where is value being left on the table?
+4. **Recommendation**: How to better convert power to margin?
+
+---
+
+## The Hard Truth
 
 Power is rare. That's why persistent differential returns are rare.
+
+Most businesses have differentiation, execution advantages, temporary leads. Those are real—but they're not defensible. The competitor with enough capital and patience can replicate them.
+
+When you analyze a business, including your own, the question isn't "is this a good business?" The question is: **Can this position be defended?**
+
+If you can't name the barrier—the specific mechanism that prevents a well-funded competitor from replicating your benefit in 2-3 years—then you don't have power.
+
+You might still have a good business. You might make money. But you're in a race, not a fortress. And races exhaust you. One stumble and you're passed.
+
+Helmer's framework isn't pessimistic. It's honest. Most founders tell themselves stories about moats they don't have. Then they're surprised when the moat doesn't hold.
+
+Know what you have. Know what you're building. Don't confuse benefits with barriers. That's the only way to build something durable.
