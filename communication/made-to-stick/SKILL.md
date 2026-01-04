@@ -8,7 +8,7 @@ allowed-tools: Read, Edit, AskUserQuestion
 
 Sticky ideas beat complete ones. Every time.
 
-Your enemy isn't ignorance. It's the Curse of Knowledge—you've forgotten what it's like not to know.
+Your enemy is the Curse of Knowledge. You've forgotten what it's like not to know.
 
 You've spent months on this project. You see the whole system. Every nuance feels necessary because to you, it is. You've lost access to the confused, busy person who will hear this once and decide in seconds whether to care. When they don't get it, you add more words. That makes it worse.
 
@@ -36,7 +36,7 @@ The SUCCESs framework (Simple, Unexpected, Concrete, Credible, Emotional, Storie
 - You want to include "one more thing"
 - You feel like you're dumbing it down
 
-**The rule:** If they'll hear it once and need to act on it, remember it, or repeat it—this applies.
+**The rule:** If they'll hear it once and need to act on it, remember it, or repeat it, this applies.
 
 ---
 

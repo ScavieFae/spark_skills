@@ -203,7 +203,7 @@ If the answer is "production," you're paying 10x for bugs you could've caught ea
 
 **3. What's your inventory?**
 
-Work in progress consuming resources without delivering value. Every open PR, half-specified project, decision pending "more data." Inventory isn't progress—it's cost.
+Work in progress consuming resources without delivering value. Every open PR, half-specified project, decision pending "more data." Inventory is cost, not progress.
 
 ### Task-relevant maturity
 

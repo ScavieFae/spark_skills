@@ -14,6 +14,7 @@ Think of it as having a writing coach, strategy advisor, or management mentor on
 - **[Elements of Style](writing/elements-of-style/)** — Strunk & White's blade for cutting prose
 - **[On Writing Well](writing/on-writing-well/)** — Zinsser's warm, exacting eye for nonfiction
 - **[Bird by Bird](writing/bird-by-bird/)** — Lamott's survival guide for writers facing the blank page
+- **[Hey Whipple, Squeeze This](writing/hey-whipple/)** — Sullivan's irreverent guide to advertising copy
 
 ### Strategy
 - **[The Lean Startup](strategy/lean-startup/)** — Ries's methodology for building under uncertainty
@@ -37,6 +38,10 @@ Think of it as having a writing coach, strategy advisor, or management mentor on
 
 ### Communication
 - **[Made to Stick](communication/made-to-stick/)** — Heath brothers' craft of ideas that survive
+
+### Design
+- **[Don't Make Me Think](design/dont-make-me-think/)** — Krug's commonsense approach to web usability
+- **[The Design of Everyday Things](design/design-of-everyday-things/)** — Norman's systematic lens for user-centered design
 
 ## Understanding Skills
 
