@@ -1,4 +1,4 @@
-# Contributing a Spark Skill
+# Contributing a Great Book Skill
 
 How to turn a book into a skill.
 
@@ -220,7 +220,7 @@ Start simple. Add structure when the skill's use case demands it.
 
 ## Licensing
 
-Spark skills are original distillations, not reproductions. Include only:
+Great book skills are original distillations, not reproductions. Include only:
 - Principles restated in your own words
 - Common examples (or create your own)
 - The book's structure reimagined for action

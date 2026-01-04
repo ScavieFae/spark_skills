@@ -1,10 +1,10 @@
-# Spark Skills
+# Great Book Skills
 
 Books distilled into Claude Code skills. Load a book's wisdom as actionable guidance.
 
 ## What This Is
 
-Spark Skills are [Claude Code skills](https://docs.anthropic.com/en/docs/claude-code/skills) based on influential books. Each skill distills a book's core principles into instructions Claude can apply while working with you.
+Great Book Skills are [Claude Code skills](https://docs.anthropic.com/en/docs/claude-code/skills) based on influential books. Each skill distills a book's core principles into instructions Claude can apply while working with you.
 
 Think of it as having a writing coach, strategy advisor, or management mentor on call—except instead of asking "what would Grove say?", Claude already knows.
 
@@ -63,8 +63,8 @@ Skills are registered by pointing to the folder containing `SKILL.md`.
 ```json
 {
   "skills": [
-    "/path/to/spark_skills/writing/on-writing-well",
-    "/path/to/spark_skills/strategy/good-strategy-bad-strategy"
+    "/path/to/great-book-skills/writing/on-writing-well",
+    "/path/to/great-book-skills/strategy/good-strategy-bad-strategy"
   ]
 }
 ```
@@ -74,17 +74,17 @@ Skills are registered by pointing to the folder containing `SKILL.md`.
 ```json
 {
   "skills": [
-    "/path/to/spark_skills/writing/on-writing-well"
+    "/path/to/great-book-skills/writing/on-writing-well"
   ]
 }
 ```
 
-Replace `/path/to/spark_skills` with wherever you cloned this repo.
+Replace `/path/to/great-book-skills` with wherever you cloned this repo.
 
 ### Option 2: Use the CLI
 
 ```bash
-claude skill add /path/to/spark_skills/writing/elements-of-style
+claude skill add /path/to/great-book-skills/writing/elements-of-style
 ```
 
 This adds the skill to your user-level settings.
@@ -124,9 +124,9 @@ If you don't specify, the skill will determine the mode from context or ask.
 
 ## Philosophy
 
-A spark skill isn't a book summary. It's a translation: taking what made the book useful and reformulating it as guidance Claude can execute.
+A great book skill isn't a book summary. It's a translation: taking what made the book useful and reformulating it as guidance Claude can execute.
 
-**What makes a good spark skill:**
+**What makes a good skill:**
 - **Actionable** — Not "good writing is clear" but "cut every word that serves no function"
 - **Opinionated** — Captures the book's point of view, not generic advice
 - **Expert frame** — Written as if by someone who's internalized the book, not summarized it

@@ -1,6 +1,6 @@
 # Skill Upgrade Playbook
 
-How to take a spark skill from "sensibility injection" to "directed workflow." Developed through upgrading the writing skills and Mom Test.
+How to take a skill from "sensibility injection" to "directed workflow." Developed through upgrading the writing skills and Mom Test.
 
 ---
 
