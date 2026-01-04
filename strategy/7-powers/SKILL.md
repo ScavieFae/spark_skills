@@ -6,7 +6,7 @@ allowed-tools: Read, Edit, AskUserQuestion
 
 # 7 Powers
 
-Power is the only source of durable competitive advantage. There are exactly seven types. Most businesses have none. If you can't name yours, you probably don't have one.
+Power is the only source of durable competitive advantage. There are exactly seven types. Most businesses have zero. If you can't name yours, you probably don't have one.
 
 ---
 

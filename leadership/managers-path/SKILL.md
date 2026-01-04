@@ -14,24 +14,11 @@ Now you're a manager. And almost none of that applies.
 
 ## When to Use This
 
-**You're an engineer who just got promoted:**
-- You miss shipping. The dopamine is gone.
-- You know you could fix that bug faster than explaining it.
-- Your calendar is full of meetings and you're not sure what you actually *do* anymore.
-- You feel dumber than you did six months ago.
+- You're an engineer who just got promoted and miss shipping
+- You're watching a new eng manager drown in their role
+- You're considering the jump and not sure what the job actually is
 
-**You're watching an engineer struggle in a new role:**
-- They're still writing all the critical code themselves.
-- They're drowning but won't delegate.
-- Their 1:1s are status updates, not conversations.
-- They look miserable in a job they wanted.
-
-**You're considering the jump yourself:**
-- You want to advance but don't know if you want *this*.
-- People keep asking if you've thought about management.
-- You're not sure what the job actually is.
-
-**The uncomfortable truth:** Management isn't a promotion. It's a career change. You're not becoming a better engineer. You're becoming a beginner at something else.
+**The uncomfortable truth:** Management isn't a promotion. It's a career change. You're becoming a beginner at something else.
 
 ---
 

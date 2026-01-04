@@ -8,25 +8,11 @@ allowed-tools: Read, Edit, AskUserQuestion
 
 ## When to Use This
 
-**When designing something new:**
-- Building a landing page, form, or navigation
-- Laying out information hierarchy
-- Deciding between clever and obvious
-- Creating any interface users need to figure out
-
-**When reviewing existing work:**
+- You're designing an interface and choosing between clever and obvious
 - A page isn't converting and nobody knows why
-- Users keep asking questions the UI should answer
-- Stakeholders are debating aesthetics while ignoring usability
-- You've stared at a design so long you can't see it anymore
+- You catch yourself saying "users will figure it out"
 
-**When you catch yourself:**
-- Saying "users will figure it out"
-- Choosing creativity over convention
-- Making the site "interesting" at the expense of clear
-- Assuming everyone reads as carefully as you do
-
-**The rule:** If a user might pause and think "where do I click?" or "what is this?"—this skill applies.
+**The rule:** If a user might pause and think "where do I click?"—this skill applies.
 
 ---
 

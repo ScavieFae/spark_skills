@@ -8,23 +8,9 @@ allowed-tools: Read, Edit, AskUserQuestion
 
 ## When to Use This
 
-**When evaluating existing designs:**
-- A user says "I couldn't figure out how to..."
-- You're reviewing a UI and something feels off
-- Error rates are high and people blame training
-- Someone asks "why do users keep doing that wrong?"
-
-**When designing something new:**
-- Creating interfaces, flows, or interactions
-- Deciding how controls should map to actions
-- Figuring out what feedback the system should give
-- Constraining what users can do (and can't)
-
-**When debugging frustration:**
-- Users abandon a flow partway through
-- Support tickets describe "confusing" experiences
-- People use workarounds instead of the intended path
-- Onboarding fails and you're blaming users
+- Someone says "I couldn't figure out how to..." and you're tempted to blame them
+- You're designing interactions and need to think through affordances, mapping, feedback
+- Error rates are high and people blame training instead of the design
 
 **The rule:** When users struggle, the design is on trial. Not the users.
 

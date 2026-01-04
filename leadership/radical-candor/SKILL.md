@@ -18,25 +18,11 @@ That's the book. That's the whole thing. Scott wrote it because she kept making 
 
 ## When to Use This
 
-**Before a conversation you're dreading:**
-- You've been rehearsing softer versions in your head
-- Someone's underperforming and you've been hinting instead of saying
-- You've written the feedback three times and it keeps getting weaker
-- You're waiting for "the right moment" (you've been waiting for weeks)
+- You're dreading a feedback conversation and keep rehearsing softer versions
+- You had the conversation but they didn't seem to hear it
+- You're being "nice"—hoping they'll figure it out from hints
 
-**After a conversation that felt wrong:**
-- You said something but they didn't seem to hear it
-- You chickened out and said the diluted version
-- They got defensive and you're not sure why
-- You're telling yourself it went fine but nothing's changing
-
-**When you notice you're being "nice":**
-- You're hoping they'll "figure it out" from your hints
-- You're protecting their feelings (really: protecting your comfort)
-- You're storing up feedback for the quarterly review
-- You like this person, so you're going easy on them
-
-**Scott's test:** If you're softening the message to avoid your own discomfort, you're choosing ten months of their failure over ten minutes of your awkwardness. That's not kind. That's selfish dressed as kindness.
+**Scott's test:** If you're softening to avoid your own discomfort, you're choosing ten months of their failure over ten minutes of your awkwardness.
 
 ---
 

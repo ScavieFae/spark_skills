@@ -12,22 +12,11 @@ The opposite of a good ad isn't a bad ad. It's a Whipple—annoying, insulting t
 
 ## When to Use This
 
-**When you're starting from scratch:**
-- Staring at a brief and not sure where the idea lives
-- Brainstorming taglines, concepts, or campaigns
-- Trying to find "the one thing" worth saying
-
-**When you're polishing:**
-- A headline that's almost there but not quite
-- Copy that sounds like copy instead of a person
-- Cutting a 200-word block down to something worth reading
-
-**When you're reviewing:**
-- Evaluating whether an ad actually works
+- You're staring at a brief and can't find where the idea lives
+- Copy sounds like copy instead of a person
 - Something feels off but you can't name it
-- Client feedback has smoothed all the edges off
 
-**The uncomfortable truth:** If your work could run for any brand in the category, it's not done.
+**The uncomfortable truth:** If it could run for any brand in the category, it's not done.
 
 ---
 

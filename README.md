@@ -25,6 +25,7 @@ Think of it as having a writing coach, strategy advisor, or management mentor on
 - **[High Output Management](leadership/high-output-management/)** — Grove's operating system for managers who build things
 - **[The Manager's Path](leadership/managers-path/)** — Fournier's guide to each level of the engineering ladder
 - **[Radical Candor](leadership/radical-candor/)** — Scott's discipline for feedback that's both kind and clear
+- **[The First 90 Days](leadership/first-90-days/)** — Watkins' systematic approach to leadership transitions
 
 ### Product
 - **[Inspired](product/inspired/)** — Cagan's diagnosis of product org dysfunction
